@@ -1,8 +1,12 @@
 # 😃 About me
 
-I have worked as a backend developer in a small but growing company. The main disadvantage was the fact that the development was mostly based on an obsolete technology stack (Object Pascal / Delphi, Oracle 10g & a bit of C# WPF), and I decided to increase my Python skills as not to be left behind on the mid-00 technoIlogies. I have been working on Python from time to time during small home projects for personal use. I'm impressed by Python's philosophy & the clear code structuring it requires. After the training courses I added Python to the company's development stack: I wrote several ETL data handlers, API requests, REST API service, deployed Apache Airflow at Docker containers.
+I have worked as a backend developer in a small but growing company. The main disadvantage was the fact that the development was mostly based on an obsolete technology stack (Object Pascal / Delphi, Oracle 10g & a bit of C# WPF), and I decided to increase my Python skills as not to be left behind on the mid-00 technoIlogies. I have been working on Python from time to time during small home projects for personal use. I'm impressed by Python's philosophy & the clear code structuring it requires.
 
-While I was implementing a Warehouse Management System in the company's warehouses, I upgraded my soft skills much: I can descibe complex things in simple words, can reassure a storekeeper that we are not going to "replace him with robots", but just want to ease his work. Had one subordinate: I know how to set tasks & control its execution without any conflicts.
+After the training courses I added Python to the company's development stack: I wrote several ETL data handlers, API requests, REST API service, deployed Apache Airflow at Docker containers.
+
+While I was implementing a Warehouse Management System in the company's warehouses, I upgraded my soft skills much: I can descibe complex things in simple words, can reassure a storekeeper that we are not going to "replace him with robots", but just want to ease his work.
+
+Had one subordinate: I know how to set tasks & control its execution without any conflicts.
 
 I can hear music even in the tapping of my fingers on the keyboard, so I like to play music in my free time. And of course I love to travel!
 
