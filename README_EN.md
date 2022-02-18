@@ -98,6 +98,7 @@ Worked on a number of projects, including:
 
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
 ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
 ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
 
 <details>
