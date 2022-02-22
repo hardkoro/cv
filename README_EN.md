@@ -176,3 +176,50 @@ Worked on a number of projects, including:
 * created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being depolyed
   
 </details>
+
+# ⚙️ Skills and Technology Stack
+
+- Team player: been a part of a small development team with one subordinate
+- Sense of duty: managed EDI & Batch Accounting Systems implementations
+- Initiative: added Python, Docker & Apache Airflow to company's technology stack
+- Emotional resilience: software implementation on production and warehouses requires strong communication skills
+- I speak Russian (native), English (fluently, C1), Finnish (learning, A1), German (a bit, A1)
+- Responsibility, accuracy, attention to details & learnability included 😉
+
+<details>
+  
+<summary>Technology Stack</summary>
+
+### Languages
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+  ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
+     (with a bit of
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=CSharp&logoColor=239120)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=JavaScript)
+  )
+  
+### Libraries and Frameworks
+ ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
+ ![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django&logoColor=FFFFFF)
+ ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=FFFFFF)
+ ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=ElasticSearch)
+   
+### Infrastructure and DevOps
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+  ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow&logoColor=FFFFFF)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
+  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+
+### Environment, IDEs and Tools
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
+  ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio-Code&logoColor=7e10cc)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+  
+</details>
