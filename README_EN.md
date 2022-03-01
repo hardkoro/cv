@@ -125,7 +125,7 @@ Development & maintaining company's own EMS-system — database design, function
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=FFFFFF)
 
-Robotics & Complex Automation Faculty, Computer-aided Design (CAD) systems Department
+Robotics & Complex Automation Faculty, Computer-aided Design & Engineering (CAD/CAE) systems Department
 
 <details>
   
