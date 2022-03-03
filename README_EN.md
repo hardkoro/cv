@@ -2,7 +2,7 @@
 
 I have worked as a backend developer in a small but growing company. The main disadvantage was the fact that the development was mostly based on an obsolete technology stack (Object Pascal / Delphi, Oracle 10g & a bit of C# WPF), and I decided to increase my Python skills as not to be left behind on the mid-00 technoIlogies. I have been working on Python from time to time during small home projects for personal use. I'm impressed by Python's philosophy & the clear code structuring it requires.
 
-After the training courses I added Python to the company's development stack: I wrote several ETL data handlers, API requests, REST API service, deployed Apache Airflow at Docker containers.
+After the training courses I added Python to the company's development stack: wrote several ETL data handlers, API requests, REST API service, deployed Apache Airflow at Docker containers.
 
 While I was implementing a Warehouse Management System in the company's warehouses, I upgraded my soft skills much: I can descibe complex things in simple words, can reassure a storekeeper that we are not going to "replace him with robots", but just want to ease his work.
 
@@ -34,23 +34,51 @@ I can hear music even in the tapping of my fingers on the keyboard, so I like to
   
 <summary>Tasks & Achievements</summary>
 
-### Development & maintaining an Enterprise Management System:
+### Enterprise Management System development & maintaining:
 
-* implemented the business logic of sending goods for realization, custodial warehouse storekeeping, barcoding goods at manufacturing => we have entered new markets, the speed of order picking increased, the quality of accounting stored goods increased, the defect handling improved
+🚩 implemented the business logic of sending goods for realization, custodial warehouse storekeeping, barcoding goods at manufacturing
 
-### Design, development & implementation a Warehouse Management System:
+  ✅ we have entered new markets
 
-* batch storekeeping added, address storage added => the number of errors decreased, the amount of defects decreased, expiration date storekeeping improved
+  ✅ the speed of order picking increased
 
-### Third-party API handlers:
+  ✅ the quality of accounting stored goods increased
 
-* implemented documents exchange via EDI systems => order processing speed improved, quality control imroved, effiency of analyst data improved
+  ✅ the defect handling improved
 
-* added Python to company's technology stack for ETL-instruments => data processing speed significantly improved & simplified
+### Warehouse Management System design, development & implementation:
+
+🚩 batch storekeeping added, address storage added
+
+  ✅ the number of errors decreased
+  
+  ✅ the amount of defects decreased
+  
+  ✅ expiration date storekeeping improved
+
+### ETL data pipelines design:
+
+🚩 implemented documents exchange via EDI systems
+  
+  ✅ order processing speed improved
+  
+  ✅ quality control imroved
+  
+  ✅ effiency of analyst data improved
+
+🚩 added Python to company's technology stack for ETL-instruments
+  
+  ✅ data processing speed significantly improved & simplified
 
 ### Data processing:
 
-* added Apache Airflow to company's technology stack, deployed it at Docker containers, wrote several DAGs for data processing of reminders reports from marketplaces, for sending topical price lists for clients, daily routine on document flows => fault tolerance of handling improved, it became much easier to maintain, monitor & improve data processing handlers, managers & analytics work processes accelerated
+🚩 added Apache Airflow to company's technology stack, deployed it at Docker containers, wrote several DAGs for data processing of reminders reports from marketplaces, for sending topical price lists for clients, daily routine on document flows
+  
+  ✅ fault tolerance of handling improved
+  
+  ✅ it became much easier to maintain, monitor & improve data processing handlers
+  
+  ✅ managers & analytics work processes accelerated
 
 </details>
 
@@ -80,15 +108,15 @@ Decided to go for the Python Backend Developer training courses to boost up my s
 
 Worked on a number of projects, including:
 
-* implemented [Grocery assistant service backend & API](https://github.com/hardkoro/foodgram) with the functionality to create recipes, follow authors, add recipes & authors to favorites & download grocery to-buy-lists with ingredients of selected recipes
+🚩 implemented [Grocery assistant service backend & API](https://github.com/hardkoro/foodgram) with the functionality to create recipes, follow authors, add recipes & authors to favorites & download grocery to-buy-lists with ingredients of selected recipes
 
-* implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
+🚩 implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
 
-* created [social network API](https://github.com/hardkoro/yatube_api): token authorizarion, registration, obtaining posts list or a separate post, create post or comment etc.
+🚩 created [social network API](https://github.com/hardkoro/yatube_api): token authorizarion, registration, obtaining posts list or a separate post, create post or comment etc.
 
-* as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
+🚩 as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
 
-* created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being depolyed
+🚩 created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being depolyed
   
 </details>
 
@@ -165,15 +193,15 @@ Decided to go for the Python Backend Developer training courses to boost up my s
 
 Worked on a number of projects, including:
 
-* implemented [Grocery assistant service backend & API](https://github.com/hardkoro/foodgram) with the functionality to create recipes, follow authors, add recipes & authors to favorites & download grocery to-buy-lists with ingredients of selected recipes
+🚩 implemented [Grocery assistant service backend & API](https://github.com/hardkoro/foodgram) with the functionality to create recipes, follow authors, add recipes & authors to favorites & download grocery to-buy-lists with ingredients of selected recipes
 
-* implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
+🚩 implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
 
-* created [social network API](https://github.com/hardkoro/yatube_api): token authorizarion, registration, obtaining posts list or a separate post, create post or comment etc.
+🚩 created [social network API](https://github.com/hardkoro/yatube_api): token authorizarion, registration, obtaining posts list or a separate post, create post or comment etc.
 
-* as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
+🚩 as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
 
-* created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being depolyed
+🚩 created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being depolyed
   
 </details>
 
