@@ -4,11 +4,11 @@ I have worked as a backend developer in a small but growing company. The main di
 
 After the training courses I added Python to the company's development stack: wrote several ETL data handlers, API requests, REST API service, deployed Apache Airflow at Docker containers.
 
-While I was implementing a Warehouse Management System in the company's warehouses, I upgraded my soft skills much: I can descibe complex things in simple words, can reassure a storekeeper that we are not going to "replace him with robots", but just want to ease his work.
+While I was implementing a Warehouse Management System in the company's warehouses, I upgraded my soft skills much: I can describe complex things in simple words, can reassure a storekeeper that we are not going to "replace him with robots", but just want to ease his work.
 
 Had one subordinate: I know how to set tasks & control its execution without any conflicts.
 
-I can hear music even in the tapping of my fingers on the keyboard, so I like to play music in my free time. And of course I love to travel!
+I can hear music even in the tapping of my fingers on the keyboard, so I like to play music in my free time. And of course, I love to travel!
 
 <br/>
 
