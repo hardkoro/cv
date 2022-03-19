@@ -1,6 +1,6 @@
 # 😃 About me
 
-I have worked as a backend developer in a small but growing company. The main disadvantage was the fact that the development was mostly based on an obsolete technology stack (Object Pascal / Delphi, Oracle 10g & a bit of C# WPF), and I decided to increase my Python skills as not to be left behind on the mid-00 technoIlogies. I have been working on Python from time to time during small home projects for personal use. I'm impressed by Python's philosophy & the clear code structuring it requires.
+I have worked as a backend developer in a small but growing company. The main disadvantage was the fact that the development was mostly based on an obsolete technology stack (Object Pascal / Delphi, Oracle 10g & a bit of C# WPF), and I decided to increase my Python skills as not to be left behind on the mid-00 technologies. I have been working on Python from time to time during small home projects for personal use. I'm impressed by Python's philosophy & the clear code structuring it requires.
 
 After the training courses I added Python to the company's development stack: wrote several ETL data handlers, API requests, REST API service, deployed Apache Airflow at Docker containers.
 
