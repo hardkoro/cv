@@ -62,9 +62,9 @@ I can hear music even in the tapping of my fingers on the keyboard, so I like to
   
   ✅ order processing speed improved
   
-  ✅ quality control imroved
+  ✅ quality control improved
   
-  ✅ effiency of analyst data improved
+  ✅ efficiency of analyst data improved
 
 🚩 added Python to company's technology stack for ETL-instruments
   
@@ -112,11 +112,11 @@ Worked on a number of projects, including:
 
 🚩 implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
 
-🚩 created [social network API](https://github.com/hardkoro/yatube_api): token authorizarion, registration, obtaining posts list or a separate post, create post or comment etc.
+🚩 created [social network API](https://github.com/hardkoro/yatube_api): token authorization, registration, obtaining posts list or a separate post, create post or comment etc.
 
 🚩 as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
 
-🚩 created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being depolyed
+🚩 created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being deployed
   
 </details>
 
