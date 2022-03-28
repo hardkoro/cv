@@ -211,7 +211,7 @@ Worked on a number of projects, including:
 
 **Certificate of Completion of the Back-End Python Developer Professional Training Course**
 
-> Issued Dec 2021 | No Expiration Date
+> Issued December 2021 | No Expiration Date
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
 
