@@ -205,6 +205,16 @@ Worked on a number of projects, including:
   
 </details>
 
+# 📜 Certificates
+
+## Yandex School of Data Analysis
+
+**Certificate of Completion of the Back-End Python Developer Professional Training Course**
+
+> Issued Dec 2021 | No Expiration Date
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+
 # ⚙️ Skills and Technology Stack
 
 - Team player: been a part of a small development team with one subordinate
