@@ -144,6 +144,24 @@ Development & maintaining company's own EMS-system — database design, function
 </details>
 
 <br/>
+
+## Gogol’s House — A Memorial Museum and Research Library
+
+**Website Content Manager | Part-time**
+
+> July 2011 — December 2016 (5 years 6 months)
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=239120)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3&logoColor=239120)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=00000F)
+
+<details>
+  
+<summary>Tasks</summary>
+
+I was in charge of museum's website: established different sections, processed text & visual information, wrote some articles based on Gogol's biography, learnt the base of HTML & CSS syntax to edit site's templates when needed, gathered statistics via MySQL Database.
+
+</details>
   
 # 🎓 Alumni
 
