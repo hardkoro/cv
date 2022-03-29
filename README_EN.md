@@ -1,10 +1,12 @@
 # 😃 About me
 
-I have worked as a backend developer in a small but growing company. The main disadvantage was the fact that the development was mostly based on an obsolete technology stack (Object Pascal / Delphi, Oracle 10g & a bit of C# WPF), and I decided to increase my Python skills as not to be left behind on the mid-00 technologies. I have been working on Python from time to time during small home projects for personal use. I'm impressed by Python's philosophy & the clear code structuring it requires.
+I have worked as a backend developer in a small but growing company. I have achieved all my goals within it, and I’m looking for new challenges now. Due to the current political situation in Russia, I’m looking for challenges in Europe, being now in Tbilisi, Georgia. I am set up for relocation, but we could discuss other options too.
 
-After the training courses I added Python to the company's development stack: wrote several ETL data handlers, API requests, REST API service, deployed Apache Airflow at Docker containers.
+As for the greatest achievement I consider the development of a WMS system from the scratch. It was necessary to start tracking the movement of SKU batches along the entire production cycle within an existing ERP system. I was responsible for the design and development of a WMS system (database and ERP integration), implemented address storage, integrated new logic into existing document workflow, coordinated the development of tablets software for storekeepers to perform warehouse operations. As a result, the company has achieved a significant reduction in defects, increased the traceability of raw materials and improved the quality of finished commodities. Also, we were able to enter new markets and increase customer’s satisfaction by shipping products with pre-determined expiration dates.
 
-While I was implementing a Warehouse Management System in the company's warehouses, I upgraded my soft skills much: I can describe complex things in simple words, can reassure a storekeeper that we are not going to "replace him with robots", but just want to ease his work.
+Under my initiative, Python was added to the company’s technology stack. I used Python to integrate several EDI systems to ERP, made some ETL data pipelines, created a REST API service. Also, I deployed Apache Airflow and became an experienced user of Docker containers. I know the difference between Django and Flask, but I used FastAPI on the production.
+
+If SQL considered as a natural language, then I would call myself a bilingual. I know how to utilize views, triggers, procedures, pipe functions, explain plans, partitions — you name it! I know Oracle best of all, but PostgreSQL is my buddy too. Now I am expanding my skills in NoSQL, as I passed several MongoDB training courses in particular.
 
 Had one subordinate: I know how to set tasks & control its execution without any conflicts.
 
