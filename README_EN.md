@@ -6,7 +6,7 @@ As for the greatest achievement I consider the development of a WMS system from 
 
 Under my initiative, Python was added to the company’s technology stack. I used Python to integrate several EDI systems to ERP, made some ETL data pipelines, created a REST API service. Also, I deployed Apache Airflow and became an experienced user of Docker containers. I know the difference between Django and Flask, but I used FastAPI on the production.
 
-If SQL considered as a natural language, then I would call myself a bilingual. I know how to utilize views, triggers, procedures, pipe functions, explain plans, partitions — you name it! I know Oracle best of all, but PostgreSQL is my buddy too. Now I am expanding my skills in NoSQL, as I passed several MongoDB training courses in particular.
+If SQL was considered as a natural language, then I would call myself a bilingual. I know how to utilize views, triggers, procedures, pipe functions, explain plans, partitions — you name it! I know Oracle best of all, but PostgreSQL is my buddy too. Now I am expanding my skills in NoSQL, as I passed several MongoDB training courses in particular.
 
 Had one subordinate: I know how to set tasks & control its execution without any conflicts.
 
