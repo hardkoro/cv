@@ -18,7 +18,7 @@ I can hear music even in the tapping of my fingers on the keyboard, so I like to
 
 ## Rusta Service LLC
 
-**Lead developer**
+**Lead Software Engineer**
 
 > March 2021 — April 2022 (1 year 1 month)
 
@@ -36,7 +36,7 @@ I can hear music even in the tapping of my fingers on the keyboard, so I like to
   
 <summary>Tasks & Achievements</summary>
 
-### Enterprise Management System development & maintaining:
+### Enterprise Resource Planning system development & maintaining:
 
 🚩 implemented the business logic of sending goods for realization, custodial warehouse storekeeping, barcoding goods at manufacturing
 
@@ -126,7 +126,7 @@ Worked on a number of projects, including:
 
 ## Troll Auto LLC
 
-**Developer**
+**Software Engineer**
 
 > November 2015 — February 2021 (5 years 11 months)
 
