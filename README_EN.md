@@ -1,14 +1,14 @@
 # 😃 About me
 
-I have worked as a software engineer in a small company. I have achieved all my goals within it, and I’m looking for new challenges now. I am set up for relocation, but we could discuss other options too.
+I have worked as a backend developer in a small but growing company. I have achieved all my goals within it, and I’m looking for new challenges now. Due to the current political situation in Russia, I’m looking for challenges in Europe, being now in Tbilisi, Georgia. I am set up for relocation, but we could discuss other options too.
 
-I have an expertise on how to integrate one complex system into another or how to develop a new one from the scratch. Under my initiative, Python was added to the company’s technology stack. I used Python to integrate several EDI systems to ERP, made some ETL data pipelines, created a REST API service. Also, I deployed Apache Airflow and became an experienced user of Docker containers.
+As for the greatest achievement I consider the development of a WMS system from the scratch. It was necessary to start tracking the movement of SKU batches along the entire production cycle within an existing ERP system. I was responsible for the design and development of a WMS system (database and ERP integration), implemented address storage, integrated new logic into existing document workflow, coordinated the development of tablets software for storekeepers to perform warehouse operations. As a result, the company has achieved a significant reduction in defects, increased the traceability of raw materials and improved the quality of finished commodities. Also, we were able to enter new markets and increase customer’s satisfaction by shipping products with pre-determined expiration dates.
 
-If SQL was considered as a natural language, then I would call myself a bilingual. I know Oracle best of all, but PostgreSQL is my buddy too. Now I am expanding my skills in NoSQL, as I passed several MongoDB training courses in particular.
+Under my initiative, Python was added to the company’s technology stack. I used Python to integrate several EDI systems to ERP, made some ETL data pipelines, created a REST API service. Also, I deployed Apache Airflow and became an experienced user of Docker containers. I know the difference between Django and Flask, but I used FastAPI on the production.
+
+If SQL was considered as a natural language, then I would call myself a bilingual. I know how to utilize views, triggers, procedures, pipe functions, explain plans, partitions — you name it! I know Oracle best of all, but PostgreSQL is my buddy too. Now I am expanding my skills in NoSQL, as I passed several MongoDB training courses in particular.
 
 Had one subordinate: I know how to set tasks & control its execution without any conflicts.
-
-I can hear music even in the tapping of my fingers on the keyboard, so I like to play music in my free time. And of course, I love to travel!
 
 <br/>
 
