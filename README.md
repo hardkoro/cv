@@ -24,7 +24,7 @@
 
 **Ведущий инженер-программист**
 
-> Март 2021 — По настоящее время (1 год 1 месяц)
+> Март 2021 — По настоящее время (1 год 3 месяца)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
