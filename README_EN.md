@@ -18,7 +18,7 @@ Had one subordinate: I know how to set tasks & control its execution without any
 
 **Lead Software Engineer**
 
-> March 2021 — Until now (1 year 1 month)
+> March 2021 — Until now (1 year 3 months)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
