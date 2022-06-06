@@ -14,11 +14,39 @@ Had one subordinate: I know how to set tasks & control its execution without any
 
 # 💼 Work experience
 
+<!-- ## Picnic Technologies B.V.
+
+**Python Developer**
+
+> July 2022 — Until now
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-333333?style=flat&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+![TravisCI](https://img.shields.io/badge/-TravisCI-333333?style=flat&logo=TravisCI)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=ElasticSearch)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+<details>
+  
+<summary>Tasks & Achievements</summary>
+  
+  <br/>
+  
+</details>
+
+<br/> -->
+
 ## Rusta Service LLC
 
 **Lead Software Engineer**
 
-> March 2021 — Until now (1 year 3 months)
+> March 2021 — Until now (1 year 4 months)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
