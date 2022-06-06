@@ -20,11 +20,39 @@
 
 # 💼 Опыт работы
 
+<!-- ## Picnic Technologies B.V.
+
+**Python Developer**
+
+> Июль 2022 — По настоящее время
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-333333?style=flat&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+![TravisCI](https://img.shields.io/badge/-TravisCI-333333?style=flat&logo=TravisCI)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=ElasticSearch)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+<details>
+  
+<summary>Задачи и достижения</summary>
+  
+  <br/>
+  
+</details>
+
+<br/> -->
+
 ## ООО «Руста Сервис»
 
 **Ведущий инженер-программист**
 
-> Март 2021 — По настоящее время (1 год 3 месяца)
+> Март 2021 — Июнь 2022 (1 год 4 месяца)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
