@@ -296,6 +296,7 @@ Worked on a number of projects, including:
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
 
 ### Environment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
