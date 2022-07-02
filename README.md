@@ -1,8 +1,8 @@
 # 😃 About me
 
-I was working as a backend developer in a small company. I have achieved all my goals within it, and I’m looking for new challenges now. Due to the current political situation in Russia, I’m looking for challenges in Europe, being now in Tbilisi, Georgia. I am set up for relocation, but we could discuss other options too.
+I was working as a backend developer in a small company. I had achieved all my goals within it, and I was looking for new challenges now. This led me to appyling for Python Engineer at Picnic Technologies B.V. Looking forward to starting work here.
 
-I was responsible for the design and development of a WMS system (database and ERP integration), implemented address storage, integrated new logic into existing document workflow, coordinated the development of tablets software for storekeepers to perform warehouse operations. As a result, we reduce quantitive and qualitive errors in shipping up to 50%, reduced waste in production up to 10% and increased total customers' satisfaction.
+As for my previous experience. I was responsible for the design and development of a WMS system (database and ERP integration), implemented address storage, integrated new logic into existing document workflow, coordinated the development of tablets software for storekeepers to perform warehouse operations. As a result, we reduce quantitive and qualitive errors in shipping up to 50%, reduced waste in production up to 10% and increased total customers' satisfaction.
 
 Under my initiative, Python was added to the company’s technology stack. I used Python to integrate several EDI systems to ERP, made some ETL data pipelines, created a REST API service. Also, I deployed Apache Airflow and became an experienced user of Docker containers. I know when to use Django and when to prefer Flask.
 
