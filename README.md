@@ -40,7 +40,17 @@ Had one subordinate: I know how to set tasks & control its execution without any
   
 <summary>Tasks & Achievements</summary>
   
-  Currently starting work here...<br/>
+🚩 Designed a Software Architecure for a Warehouse Space Allocation Service
+
+  ✅ it helped to make the Service more sustainable, to be able to introduce a unified solution for different warehouse types, to improve space utilization
+  
+🚩 Removed cron jobs by introducing event-driven architecture to the Warehouse Service using RabbitMQ
+
+  ✅ it improved the Service resilience, helped to apply changes faster because of the validity of data
+  
+🚩 Removed Excel sheets by automating printing of the Warehouse labels
+
+  ✅ it significantly reduced time spent by Warehouse Operators to create the labels manually, improved the quality of the labels, reduced errors
   
 </details>
 
