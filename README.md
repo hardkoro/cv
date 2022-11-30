@@ -274,7 +274,7 @@ Worked on a number of projects, including:
 - Sense of duty: managed EDI & Batch Accounting Systems implementations
 - Initiative: added Python, Docker & Apache Airflow to company's technology stack
 - Emotional resilience: software implementation on production and warehouses requires strong communication skills
-- I speak Russian (native), English (fluently, C1), Finnish (learning, A1), German (a bit, A1)
+- I speak Russian (native), English (C1), Dutch (learning, A1), German (a bit, A1)
 - Responsibility, accuracy, attention to details & learnability included 😉
 
 <details>
