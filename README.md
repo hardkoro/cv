@@ -26,13 +26,8 @@ Had one subordinate: I know how to set tasks & control its execution without any
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=docker&logoColor=009688)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
-![AWS](https://img.shields.io/badge/-Amazon_AWS-333333?style=flat&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-![TravisCI](https://img.shields.io/badge/-TravisCI-333333?style=flat&logo=TravisCI)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=ElasticSearch)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
@@ -40,7 +35,7 @@ Had one subordinate: I know how to set tasks & control its execution without any
   
 <summary>Tasks & Achievements</summary>
   
-🚩 Designed a Software Architecure for a Warehouse Space Allocation Service
+🚩 Designed a Software Architecure for a Warehouse Layout Management & Warehouse Space Allocation services
 
   ✅ it helped to make the Service more sustainable, to be able to introduce a unified solution for different warehouse types, to improve space utilization
   
