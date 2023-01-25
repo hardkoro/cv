@@ -2,15 +2,13 @@
 
 <!-- https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
 
-I was working as a backend developer in a small company. I had achieved all my goals within it, and I was looking for new challenges now. This led me to appyling for Python Engineer at Picnic Technologies B.V. Currently I am starting my work here, and I am very excited about it.
+I worked as a backend developer for a small company. I had achieved all my goals within it, and I was looking for new challenges now. This led me to applying for Python Engineer at Picnic Technologies B.V. Currently I am starting my work here, and I am very excited about it.applying
 
-As for my previous experience. I was responsible for the design and development of a WMS system (database and ERP integration), implemented address storage, integrated new logic into existing document workflow, coordinated the development of tablets software for storekeepers to perform warehouse operations. As a result, we reduce quantitive and qualitive errors in shipping up to 50%, reduced waste in production up to 10% and increased total customers' satisfaction.
+As for my previous experience, I was responsible for the design and development of a WMS system (database and ERP integration), implemented address storage, integrated new logic into existing document workflow, coordinated the development of tablet software for storekeepers to perform warehouse operations. As a result, we reduced quantitive and qualitative errors in shipping up to 50%, reduced waste in production up to 10% and increased total customers' satisfaction.
 
-Under my initiative, Python was added to the company’s technology stack. I used Python to integrate several EDI systems to ERP, made some ETL data pipelines, created a REST API service. Also, I deployed Apache Airflow and became an experienced user of Docker containers. I know when to use Django and when to prefer Flask.
+Under my initiative, Python was added to the company’s technology stack. I used Python to integrate several EDI systems into ERP, made some ETL data pipelines, created a REST API service. Also, I deployed Apache Airflow and became an experienced user of Docker containers. I know when to use Django and when to prefer Flask.
 
-If SQL was considered as a natural language, then I would call myself a bilingual. I know how to utilize views, triggers, procedures, pipe functions, explain plans, partitions — you name it! I know Oracle best of all, but PostgreSQL is my buddy too. Now I am expanding my skills in NoSQL, as I passed several MongoDB training courses in particular.
-
-Had one subordinate: I know how to set tasks & control its execution without any conflicts.
+If SQL was considered as a natural language, then I would call myself bilingual. I know how to utilize views, triggers, procedures, pipe functions, explain plans, partitions — you name it! I know Oracle best of all, but PostgreSQL is my buddy too. Now I am expanding my skills in NoSQL, as I passed several MongoDB training courses in particular.
 
 <br/>
 
@@ -161,7 +159,7 @@ Worked on a number of projects, including:
 
 **Software Engineer**
 
-> November 2015 — February 2021 (5 years 11 months)
+> January 2018 — February 2021 (3 years 1 month)
 
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
 ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
@@ -182,7 +180,7 @@ Development & maintaining company's own EMS-system — database design, function
 
 **Website Content Manager | Part-time**
 
-> July 2011 — December 2016 (5 years 6 months)
+> July 2012 — December 2017 (6 years 6 months)
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=239120)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3&logoColor=239120)
