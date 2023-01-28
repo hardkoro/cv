@@ -2,13 +2,11 @@
 
 <!-- https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
 
-I worked as a backend developer for a small company. I had achieved all my goals within it, and I was looking for new challenges now. This led me to applying for Python Engineer at Picnic Technologies B.V. Currently I am starting my work here, and I am very excited about it.applying
+I am a Python engineer with experience in a variety of technologies, from Delphi, Oracle Databases, and monolithic legacy apps to MongoDB, RabbitMQ and K8s-based event-driven microservices.
 
-As for my previous experience, I was responsible for the design and development of a WMS system (database and ERP integration), implemented address storage, integrated new logic into existing document workflow, coordinated the development of tablet software for storekeepers to perform warehouse operations. As a result, we reduced quantitive and qualitative errors in shipping up to 50%, reduced waste in production up to 10% and increased total customers' satisfaction.
+I have been working in supply chain companies for a long time and am well-versed in ERPs, WMSs, analytics, demand forecasting, and more. I feel [gezellig]([url](https://www.dutchamsterdam.nl/155-gezellig)) in warehouses, but prefer to work in an office or at home, ha-ha 😅. I am open to taking on projects in other industries as well.
 
-Under my initiative, Python was added to the company’s technology stack. I used Python to integrate several EDI systems into ERP, made some ETL data pipelines, created a REST API service. Also, I deployed Apache Airflow and became an experienced user of Docker containers. I know when to use Django and when to prefer Flask.
-
-If SQL was considered as a natural language, then I would call myself bilingual. I know how to utilize views, triggers, procedures, pipe functions, explain plans, partitions — you name it! I know Oracle best of all, but PostgreSQL is my buddy too. Now I am expanding my skills in NoSQL, as I passed several MongoDB training courses in particular.
+Currently, I am working on building the best milkman on Earth at Picnic Technologies B.V. and admiring the birds of the Netherlands.
 
 <br/>
 
@@ -21,29 +19,28 @@ If SQL was considered as a natural language, then I would call myself bilingual.
 > July 2022 — Until now
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=TypeScript&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
+![Aiohttp](https://img.shields.io/badge/-Aiohttp-333333?style=flat&logo=Aiohttp)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=docker&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
+![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
+![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
+![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
 
 <details>
   
 <summary>Tasks & Achievements</summary>
   
-🚩 Designed a Software Architecure for a Warehouse Layout Management & Warehouse Space Allocation services
+  - Designed a software architecure for a warehouse layout management and warehouse space allocation services
 
-  ✅ it helped to make the Service more sustainable, to be able to introduce a unified solution for different warehouse types, to improve space utilization
-  
-🚩 Removed cron jobs by introducing event-driven architecture to the Warehouse Service using RabbitMQ
+  - Removed cron jobs by introducing an event-driven architecture to the warehouse space allocation serivce using RabbitMQ
 
-  ✅ it improved the Service resilience, helped to apply changes faster because of the validity of data
-  
-🚩 Removed Excel sheets by automating printing of the Warehouse labels
-
-  ✅ it significantly reduced time spent by Warehouse Operators to create the labels manually, improved the quality of the labels, reduced errors
+  - Removed Google sheets by automating printing of the warehouse labels
   
 </details>
 
@@ -282,6 +279,7 @@ Worked on a number of projects, including:
 ### Languages
   Current:
       ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+      ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=TypeScript&logoColor=3776AB)
   
   Previous:
       ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
@@ -293,6 +291,7 @@ Worked on a number of projects, including:
       ![Pytest](https://img.shields.io/badge/-Pytest-333333?style=flat&logo=Pytest)
       ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
       ![Aiohttp](https://img.shields.io/badge/-Aiohttp-333333?style=flat&logo=Aiohttp)
+      ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   
   Previous:
       ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
@@ -306,10 +305,14 @@ Worked on a number of projects, including:
       ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
       ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
       ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
-      ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
       ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
+      ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
+      ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
+      ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
+      ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
   
   Previous:
+      ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
       ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow&logoColor=FFFFFF)
       ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
       ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
@@ -321,11 +324,15 @@ Worked on a number of projects, including:
       ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ+IDEA-333333?style=flat&logo=IntelliJ+IDEA)
       ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
       ![Apple](https://img.shields.io/badge/-Apple-333333?style=flat&logo=Apple)
+      ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
+      ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=Confluence)
+      ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
   
   Previous:
       ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
       ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio-Code&logoColor=7e10cc)
       ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
       ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+      ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-333333?style=flat&logo=Microsoft-Teams)
   
 </details>
