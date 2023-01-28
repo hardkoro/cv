@@ -4,7 +4,7 @@
 
 I am a Python engineer with experience in a variety of technologies, from Delphi, Oracle Databases, and monolithic legacy apps to MongoDB, RabbitMQ and K8s-based event-driven microservices.
 
-I have been working in supply chain companies for a long time and am well-versed in ERPs, WMSs, analytics, demand forecasting, and more. I feel [gezellig]([url](https://www.dutchamsterdam.nl/155-gezellig)) in warehouses, but prefer to work in an office or at home, ha-ha 😅. I am open to taking on projects in other industries as well.
+I have been working in supply chain companies for a long time and am well-versed in ERPs, WMSs, analytics, demand forecasting, and more. I feel [gezellig](https://www.dutchamsterdam.nl/155-gezellig) in warehouses, but prefer to work in an office or at home, ha-ha 😅. I am open to taking on projects in other industries as well.
 
 Currently, I am working on building the best milkman on Earth at Picnic Technologies B.V. and admiring the birds of the Netherlands.
 
