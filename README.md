@@ -46,7 +46,7 @@ Currently, I am working on building the best milkman on Earth at Picnic Technolo
 
 ## [Rusta Service LLC](https://kudo-paint.ru/) (a part of Rusta A.G.)
 
-**Lead Software Engineer**
+**Software Engineer**
 
 > March 2021 — June 2022 (1 year 4 months)
 
