@@ -6,7 +6,7 @@ I am a Python engineer with experience in a variety of technologies, from Delphi
 
 I have been working in supply chain companies for a long time and am well-versed in ERPs, WMSs, analytics, demand forecasting, and more. I feel [gezellig](https://www.dutchamsterdam.nl/155-gezellig) in warehouses, but prefer to work in an office or at home, ha-ha 😅. I am open to taking on projects in other industries as well.
 
-Currently, I am working on building the best milkman on Earth at Picnic Technologies B.V. and admiring the birds of the Netherlands.
+Currently, I am working on building the best milkman on Earth at Picnic Technologies B.V. and admiring the birds of the Netherlands. 🐦
 
 <br/>
 
@@ -31,12 +31,13 @@ Currently, I am working on building the best milkman on Earth at Picnic Technolo
 ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
 ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
 ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
 
 <details>
   
 <summary>Tasks & Achievements</summary>
   
-  - Designed a software architecure for a warehouse layout management and warehouse space allocation services
+  - Leaded on a project to design and develop a software architecture for a warehouse layout management and warehouse space allocation services
 
   - Removed cron jobs by introducing an event-driven architecture to the warehouse space allocation serivce using RabbitMQ
 
@@ -310,6 +311,7 @@ Worked on a number of projects, including:
       ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
       ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
       ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+      ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
   
   Previous:
       ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
