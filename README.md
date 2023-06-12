@@ -2,11 +2,11 @@
 
 <!-- https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
 
-I am a Python engineer with experience in a variety of technologies, from Delphi, Oracle Databases, and monolithic legacy apps to MongoDB, RabbitMQ and K8s-based event-driven microservices.
+I am a Python engineer with experience in a variety of technologies, from Delphi, Oracle Databases, and monolithic legacy apps to FastAPI, RabbitMQ and K8s-based event-driven microservices.
 
 I have been working in supply chain companies for a long time and am well-versed in ERPs, WMSs, analytics, demand forecasting, and more. I feel [gezellig](https://www.dutchamsterdam.nl/155-gezellig) in warehouses, but prefer to work in an office or at home, ha-ha 😅. I am open to taking on projects in other industries as well.
 
-Currently, I am working on building the best milkman on Earth at Picnic Technologies B.V. and admiring the birds of the Netherlands. 🐦
+Currently, I am working on building the best milkman on Earth at [Picnic Technologies B.V.]((https://picnic.tech/)) and admiring the birds of the Netherlands. 🐦
 
 <br/>
 
@@ -37,11 +37,13 @@ Currently, I am working on building the best milkman on Earth at Picnic Technolo
   
 <summary>Tasks & Achievements</summary>
   
-  - Leaded on a project to design and develop a software architecture for a warehouse layout management and warehouse space allocation services
+  - Lead a project to design and develop a software architecture for a warehouse layout management and warehouse space allocation services
 
-  - Removed cron jobs by introducing an event-driven architecture to the warehouse space allocation serivce using RabbitMQ
+  - Remove cron jobs by introducing an event-driven architecture to the warehouse space allocation serivce using RabbitMQ
 
-  - Removed Google sheets by automating printing of the warehouse labels
+  - Automate printing of the warehouse labels
+  
+  - Integrate warehouse space allocation service with prediction-based forecasts from external service
   
 </details>
 
@@ -298,7 +300,6 @@ Worked on a number of projects, including:
       ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
       ![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django&logoColor=FFFFFF)
       ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=FFFFFF)
-      ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=ElasticSearch)
    
 ### Infrastructure and DevOps
   Current:
