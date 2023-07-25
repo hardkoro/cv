@@ -261,6 +261,14 @@ Worked on a number of projects, including:
 
 # 📜 Certificates
 
+## [ArjanCodes](https://www.arjancodes.com/)
+
+**[Certificate of Completion of the The Software Designer Mindset Training Course](https://app.kajabi.com/certificates/a3d0752f)**
+
+> Issued March 2023 | No Expiration Date
+
+![Software Design](https://img.shields.io/badge/-Software%20Design-333333?style=flat-square&logo=python&logoColor=3776AB)
+
 ## [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/)
 
 **[Certificate of Completion of the Back-End Python Developer Professional Training Course](https://drive.google.com/file/d/1gInE1wuCoYb53Gyp92gchPvVi5xSCmBf/view)**
