@@ -26,6 +26,7 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake&logoColor=FFFFFF)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
 ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
 ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
@@ -263,11 +264,19 @@ Worked on a number of projects, including:
 
 ## [ArjanCodes](https://www.arjancodes.com/)
 
-**[Certificate of Completion of the The Software Designer Mindset Training Course](https://app.kajabi.com/certificates/a3d0752f)**
+**[Certificate of Completion of the Software Designer Mindset Training Course](https://app.kajabi.com/certificates/a3d0752f)**
 
 > Issued March 2023 | No Expiration Date
 
 ![Software Design](https://img.shields.io/badge/-Software%20Design-333333?style=flat-square&logo=python&logoColor=3776AB)
+
+## [Snowflake](https://www.snowflake.com/en/?aad=BAhJIkp7InR5cGUiOiJpc3N1ZXIiLCJ1cmwiOiJodHRwczovL3d3dy5zbm93Zmxha2UuY29tL2VuLyIsImlkIjo4NTQ5NTY2Nn0GOgZFVA%3D%3D--a057514a285e86f18d9eb306023b0ebb8b3cbede)
+
+**[Certificate of Completion of the Hands-On Essentials: Data Warehousing Workshop](https://achieve.snowflake.com/d373d7e9-330c-463d-ab59-611afd569665)**
+
+> Issued June 2022 | No Expiration Date
+
+![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat-square&logo=snowflake&logoColor=3776AB)
 
 ## [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/)
 
