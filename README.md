@@ -18,15 +18,15 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 
 > July 2022 — Until now
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=TypeScript&logoColor=3776AB)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
 ![Aiohttp](https://img.shields.io/badge/-Aiohttp-333333?style=flat&logo=Aiohttp)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
-![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
 ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
 ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
@@ -57,15 +57,15 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 
 > March 2021 — June 2022 (1 year 4 months)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
-![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=Delphi)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=FFFFFF)
-![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
+![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion)
 
 <details>
   
@@ -127,13 +127,13 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 
 > March 2021 — December 2021 (10 months)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
-![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
@@ -165,10 +165,10 @@ Worked on a number of projects, including:
 
 > January 2018 — February 2021 (3 years 1 month)
 
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
-![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
-![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=Delphi)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion)
 
 <details>
   
@@ -186,9 +186,9 @@ Development & maintaining company's own EMS-system — database design, function
 
 > July 2012 — December 2017 (6 years 6 months)
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=239120)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=css3&logoColor=239120)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=00000F)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 <details>
   
@@ -204,9 +204,9 @@ I was in charge of museum's website: established different sections, processed t
 
 > September 2009 — June 2015 (5 years 9 months)
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 
 Robotics & Complex Automation Faculty, Computer-aided Design & Engineering (CAD/CAE) systems Department
 
@@ -230,13 +230,13 @@ Robotics & Complex Automation Faculty, Computer-aided Design & Engineering (CAD/
 
 > March 2021 — December 2021 (10 months)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
-![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
@@ -268,8 +268,8 @@ Worked on a number of projects, including:
 
 > Issued November 2023 | No Expiration Date
 
-![Software Architecture](https://img.shields.io/badge/-Software%20Architecture-333333?style=flat-square&logo=python&logoColor=3776AB)
-![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat-square&logo=python&logoColor=3776AB)
+![Software Architecture](https://img.shields.io/badge/-Software%20Architecture-333333?style=flat&logo=Python)
+![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat&logo=Python)
 
 ## [ArjanCodes](https://www.arjancodes.com/)
 
@@ -277,7 +277,7 @@ Worked on a number of projects, including:
 
 > Issued March 2023 | No Expiration Date
 
-![Software Design](https://img.shields.io/badge/-Software%20Design-333333?style=flat-square&logo=python&logoColor=3776AB)
+![Software Design](https://img.shields.io/badge/-Software%20Design-333333?style=flat&logo=Python)
 
 ## [Snowflake](https://www.snowflake.com/en/?aad=BAhJIkp7InR5cGUiOiJpc3N1ZXIiLCJ1cmwiOiJodHRwczovL3d3dy5zbm93Zmxha2UuY29tL2VuLyIsImlkIjo4NTQ5NTY2Nn0GOgZFVA%3D%3D--a057514a285e86f18d9eb306023b0ebb8b3cbede)
 
@@ -285,7 +285,7 @@ Worked on a number of projects, including:
 
 > Issued June 2022 | No Expiration Date
 
-![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat-square&logo=snowflake&logoColor=3776AB)
+![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=snowflake)
 
 ## [MongoDB University](https://learn.mongodb.com/)
 
@@ -293,13 +293,13 @@ Worked on a number of projects, including:
 
 > Issued March 2022 | No Expiration Date
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=MongoDB&logoColor=3776AB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 **[Proof of Completion of the MongoDB Basics Training Course](https://university.mongodb.com/course_completion/561986a2-d08b-4b6e-a06d-41f148742bde)**
 
 > Issued February 2022 | No Expiration Date
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=MongoDB&logoColor=3776AB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ## [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/)
 
@@ -307,7 +307,7 @@ Worked on a number of projects, including:
 
 > Issued December 2021 | No Expiration Date
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 # ⚙️ Skills and Technology Stack
 
@@ -324,13 +324,13 @@ Worked on a number of projects, including:
 
 ### Languages
   Current:
-      ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=3776AB)
-      ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=TypeScript&logoColor=3776AB)
+      ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+      ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   
   Previous:
-      ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat-square&logo=Delphi&logoColor=EE1F35)
-      ![C#](https://img.shields.io/badge/-C%23-333333?style=flat-square&logo=CSharp&logoColor=239120)
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=JavaScript)
+      ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=Delphi)
+      ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp)
+      ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   
 ### Libraries and Frameworks
   Current:
@@ -340,16 +340,16 @@ Worked on a number of projects, including:
       ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   
   Previous:
-      ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFFFFF)
-      ![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django&logoColor=FFFFFF)
-      ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=FFFFFF)
+      ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+      ![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django)
+      ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
    
 ### Infrastructure and DevOps
   Current:
-      ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-      ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-      ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-      ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+      ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+      ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+      ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+      ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
       ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
       ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
       ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
@@ -359,9 +359,9 @@ Worked on a number of projects, including:
       ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
   
   Previous:
-      ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion&logoColor=F05032)
-      ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow&logoColor=FFFFFF)
-      ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
+      ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion)
+      ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow)
+      ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
       ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
       ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
       ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
@@ -370,14 +370,16 @@ Worked on a number of projects, including:
   Current:
       ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ+IDEA-333333?style=flat&logo=IntelliJ+IDEA)
       ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
+      ![PlantUML](https://img.shields.io/badge/-PlantUML-333333?style=flat&logo=PlantUML)
       ![Apple](https://img.shields.io/badge/-Apple-333333?style=flat&logo=Apple)
       ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)
       ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=Confluence)
       ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
+      ![Parabol](https://img.shields.io/badge/-Parabol-333333?style=flat&logo=Parabol)
   
   Previous:
-      ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
-      ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio-Code&logoColor=7e10cc)
+      ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code)
+      ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual-Studio-Code)
       ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
       ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
       ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-333333?style=flat&logo=Microsoft-Teams)
