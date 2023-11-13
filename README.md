@@ -262,6 +262,15 @@ Worked on a number of projects, including:
 
 # 📜 Certificates
 
+## [Udemy](https://www.udemy.com/)
+
+**[Certificate of Completion of the Complete Microservices & Event-Driven Architecture Training Course](https://www.udemy.com/certificate/UC-018c628d-a216-4f1b-b408-fb1fe9f1e5b3/)**
+
+> Issued November 2023 | No Expiration Date
+
+![Software Architecture](https://img.shields.io/badge/-Software%20Architecture-333333?style=flat-square&logo=python&logoColor=3776AB)
+![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat-square&logo=python&logoColor=3776AB)
+
 ## [ArjanCodes](https://www.arjancodes.com/)
 
 **[Certificate of Completion of the Software Designer Mindset Training Course](https://app.kajabi.com/certificates/a3d0752f)**
@@ -277,6 +286,20 @@ Worked on a number of projects, including:
 > Issued June 2022 | No Expiration Date
 
 ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat-square&logo=snowflake&logoColor=3776AB)
+
+## [MongoDB University](https://learn.mongodb.com/)
+
+**[Proof of Completion of the MongoDB for Python Developers Training Course](https://university.mongodb.com/course_completion/dcf9dbe4-0a7e-41a5-927d-3f1174bd21ed)**
+
+> Issued March 2022 | No Expiration Date
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=MongoDB&logoColor=3776AB)
+
+**[Proof of Completion of the MongoDB Basics Training Course](https://university.mongodb.com/course_completion/561986a2-d08b-4b6e-a06d-41f148742bde)**
+
+> Issued February 2022 | No Expiration Date
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=MongoDB&logoColor=3776AB)
 
 ## [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/)
 
