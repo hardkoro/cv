@@ -31,6 +31,7 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
 ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
+![TeamCity](https://img.shields.io/badge/-TeamCity-333333?style=flat&logo=TeamCity)
 ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
 ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
@@ -38,21 +39,24 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 ![SonarCloud](https://img.shields.io/badge/-SonarCloud-333333?style=flat&logo=SonarCloud)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=AmazonS3)
 ![DataSet](https://img.shields.io/badge/-DataSet-333333?style=flat&logo=DataSet)
-![incident.io](https://img.shields.io/badge/-incident.io-333333?style=flat&logo=incident.io)
 
 <details>
   
 <summary>Tasks & Achievements</summary>
   
-  - Lead a project to design and develop a software architecture for a warehouse layout management and warehouse space allocation services
+  - Lead a project to architect, design and develop a system for managing warehouse space allocation system
 
-  - Remove cron jobs by introducing an event-driven architecture to the warehouse space allocation serivce using RabbitMQ
+  - Manage the gradual roll-out of the new warehouse space allocation system and deprecation of the old one
+
+  - Manage cross-departmental projects on improving the overall workflow within the Supply Chain domain
+
+  - Introduce event-driven integration to external services to the warehouse space allocation system using RabbitMQ
+  
+  - Integrate warehouse space allocation system with prediction-based forecasts from external service
+
+  - Create an ETL-service to transform SKU data from external service into the warehouse space allocation system
 
   - Automate printing of the warehouse labels, reduce paper utilization
-  
-  - Integrate warehouse space allocation service with prediction-based forecasts from external service
-
-  - Create an ETL-service to transform SKU data from external services into warehouse space allocation service
   
 </details>
 
@@ -341,10 +345,10 @@ Worked on a number of projects, including:
   Current:
       ![Pytest](https://img.shields.io/badge/-Pytest-333333?style=flat&logo=Pytest)
       ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
-      ![Aiohttp](https://img.shields.io/badge/-Aiohttp-333333?style=flat&logo=Aiohttp)
-      ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   
   Previous:
+      ![Aiohttp](https://img.shields.io/badge/-Aiohttp-333333?style=flat&logo=Aiohttp)
+      ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
       ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
       ![DRF](https://img.shields.io/badge/-DRF-333333?style=flat&logo=Django)
       ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
@@ -354,22 +358,27 @@ Worked on a number of projects, including:
       ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
       ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
       ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+      ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+      ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
       ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+      ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
       ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
       ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
       ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
       ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
-      ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-      ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
       ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
+      ![DataDog](https://img.shields.io/badge/-DataDog-333333?style=flat&logo=DataDog)
+      ![SonarCloud](https://img.shields.io/badge/-SonarCloud-333333?style=flat&logo=SonarCloud)
+      ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=AmazonS3)
+      ![DataSet](https://img.shields.io/badge/-DataSet-333333?style=flat&logo=DataSet)
   
   Previous:
+      ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
       ![Subversion](https://img.shields.io/badge/-Subversion-333333?style=flat&logo=Subversion)
       ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow)
       ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
       ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
       ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
-      ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Enviroment, IDEs and Tools
   Current:
@@ -381,6 +390,7 @@ Worked on a number of projects, including:
       ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=Confluence)
       ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
       ![Parabol](https://img.shields.io/badge/-Parabol-333333?style=flat&logo=Parabol)
+      ![incident.io](https://img.shields.io/badge/-incident.io-333333?style=flat&logo=incident.io)
   
   Previous:
       ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code)
