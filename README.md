@@ -41,19 +41,30 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
   
 <summary>Tasks & Achievements</summary>
   
-  - Lead a project to architect, design and develop a system for managing warehouse space allocation system
-
-  - Manage the gradual roll-out of the new warehouse space allocation system and deprecation of the old one
-
-  - Manage cross-departmental projects on improving the overall workflow within the Supply Chain domain
-
-  - Introduce event-driven integration to external services to the warehouse space allocation system using RabbitMQ
-  
-  - Integrate warehouse space allocation system with prediction-based forecasts from external service
-
-  - Create an ETL-service to transform SKU data from external service into the warehouse space allocation system
-
-  - Automate printing of the warehouse labels, reduce paper utilization
+- 🚩 led a project to architect, design and develop a system for managing warehouse space allocation system
+  - ✅ picking and replenishment SPIs (second-per-item) decreased
+  - ✅ warehouse space utilization increased
+  - ✅ nuber of errors decreased
+  - ✅ capacity estimation improved
+  - ✅ the flexible design allows to adjust the system for the needs of specific warehouse type, market and/or site
+- 🚩 managed the gradual roll-out of the new warehouse space allocation system and deprecation of the old one
+  - ✅ seamless system transition
+  - ✅ minimized downtime
+  - ✅ user satisfaction increased without dropping in the roll-out period
+- 🚩 managed cross-departmental projects on improving the overall workflow within the Supply Chain domain
+  - ✅ cross-department workflows streamlined
+  - ✅ bottlenecks and operational costs reduced
+- 🚩 introduced event-driven integration to external services to the warehouse space allocation system using RabbitMQ
+  - ✅ system agility and decision-making speed improved
+- 🚩 integrated warehouse space allocation system with prediction-based forecasts from external service
+  - ✅ warehouse space utilization increased
+  - ✅ stockout reduced
+- 🚩 created an ETL-service to transform SKU data from external service into the warehouse space allocation system
+  - ✅ product handling accuracy and capacity estimation increased
+  - ✅ re-usable streamlined process
+- 🚩 automated printing of the warehouse labels
+  - ✅ number of picking and replenishment errors decreased
+  - ✅ paper utilization reduced
   
 </details>
 
@@ -79,49 +90,34 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 
 ### Enterprise Resource Planning system development & maintaining:
 
-🚩 implemented the business logic of sending goods for realization, custodial warehouse storekeeping, barcoding goods at manufacturing
-
-  ✅ we have entered new markets
-
-  ✅ the speed of order picking increased
-
-  ✅ the quality of accounting stored goods increased
-
-  ✅ the defect handling improved
+- 🚩 implemented the business logic of sending goods for realization, custodial warehouse storekeeping, barcoding goods at manufacturing
+  - ✅ we have entered new markets
+  - ✅ the speed of order picking increased
+  - ✅ the quality of accounting stored goods increased
+  - ✅ the defect handling improved
 
 ### Warehouse Management System design, development & implementation:
 
-🚩 batch storekeeping added, address storage added
-
-  ✅ the number of errors decreased
-  
-  ✅ the amount of defects decreased
-  
-  ✅ expiration date storekeeping improved
+- 🚩 batch storekeeping added, address storage added
+  - ✅ the number of errors decreased
+  - ✅ the amount of defects decreased
+  - ✅ expiration date storekeeping improved
 
 ### ETL data pipelines design:
 
-🚩 implemented documents exchange via EDI systems
-  
-  ✅ order processing speed improved
-  
-  ✅ quality control improved
-  
-  ✅ efficiency of analyst data improved
-
-🚩 added Python to company's technology stack for ETL-instruments
-  
-  ✅ data processing speed significantly improved & simplified
+- 🚩 implemented documents exchange via EDI systems
+  - ✅ order processing speed improved
+  - ✅ quality control improved
+  - ✅ efficiency of analyst data improved
+- 🚩 added Python to company's technology stack for ETL-instruments
+  - ✅ data processing speed significantly improved & simplified
 
 ### Data processing:
 
-🚩 added Apache Airflow to company's technology stack, deployed it at Docker containers, wrote several DAGs for data processing of reminders reports from marketplaces, for sending topical price lists for clients, daily routine on document flows
-  
-  ✅ fault tolerance of handling improved
-  
-  ✅ it became much easier to maintain, monitor & improve data processing handlers
-  
-  ✅ managers & analytics work processes accelerated
+- 🚩 added Apache Airflow to company's technology stack, deployed it at Docker containers, wrote several DAGs for data processing of reminders reports from marketplaces, for sending topical price lists for clients, daily routine on document flows
+  - ✅ fault tolerance of handling improved
+  - ✅ it became much easier to maintain, monitor & improve data processing handlers
+  - ✅ managers & analytics work processes accelerated
 
 </details>
 
@@ -129,7 +125,7 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 
 ## [Yandex.Practicum](https://yandex.com/support/practicum/)
 
-**Backend Developer** (training)
+**Backend Developer** | _Training_
 
 > March 2021 — December 2021 (10 months)
 
@@ -151,15 +147,11 @@ Decided to go for the Python Backend Developer training courses to boost up my s
 
 Worked on a number of projects, including:
 
-🚩 implemented [Grocery assistant service backend & API](https://github.com/hardkoro/foodgram) with the functionality to create recipes, follow authors, add recipes & authors to favorites & download grocery to-buy-lists with ingredients of selected recipes
-
-🚩 implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
-
-🚩 created [social network API](https://github.com/hardkoro/yatube_api): token authorization, registration, obtaining posts list or a separate post, create post or comment etc.
-
-🚩 as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
-
-🚩 created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being deployed
+- 🚩 implemented [Grocery assistant service backend & API](https://github.com/hardkoro/foodgram) with the functionality to create recipes, follow authors, add recipes & authors to favorites & download grocery to-buy-lists with ingredients of selected recipes
+- 🚩 implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
+- 🚩 created [social network API](https://github.com/hardkoro/yatube_api): token authorization, registration, obtaining posts list or a separate post, create post or comment etc.
+- 🚩 as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
+- 🚩 created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being deployed
   
 </details>
 
@@ -253,16 +245,11 @@ Decided to go for the Python Backend Developer training courses to boost up my s
 <summary>Projects</summary>
 
 Worked on a number of projects, including:
-
-🚩 implemented [Grocery assistant service backend & API](https://github.com/hardkoro/foodgram) with the functionality to create recipes, follow authors, add recipes & authors to favorites & download grocery to-buy-lists with ingredients of selected recipes
-
-🚩 implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
-
-🚩 created [social network API](https://github.com/hardkoro/yatube_api): token authorizarion, registration, obtaining posts list or a separate post, create post or comment etc.
-
-🚩 as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
-
-🚩 created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being depolyed
+- 🚩 implemented [Grocery assistant service backend & API](https://github.com/hardkoro/foodgram) with the functionality to create recipes, follow authors, add recipes & authors to favorites & download grocery to-buy-lists with ingredients of selected recipes
+- 🚩 implemented [social network backend](https://github.com/hardkoro/yatube) with the functionality to create posts, add images & comments
+- 🚩 created [social network API](https://github.com/hardkoro/yatube_api): token authorizarion, registration, obtaining posts list or a separate post, create post or comment etc.
+- 🚩 as a part of collaborate work I developed an [API for a YamDB service](https://github.com/hardkoro/yamdb_api) — a service for reviews & replies for different pieces of arts. Was responsible for review & replies functionality, importing data from CSV-file, created docker containers, deployed project on Yandex.Cloud service
+- 🚩 created a [Telegram bot](https://github.com/hardkoro/homework_bot) to notify me about the status of the homework check, which was subsequently changed to notify about CI/CD status of the projects being depolyed
   
 </details>
 
