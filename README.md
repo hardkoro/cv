@@ -14,7 +14,7 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 
 ## [Picnic Technologies B.V.](https://picnic.tech/)
 
-**Python Engineer**
+**Python Engineer** | _Layout & Product Integrations_
 
 > July 2022 — Until now
 
