@@ -25,15 +25,20 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-333333?style=flat&logo=Snowflake)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
 ![Spinnaker](https://img.shields.io/badge/-Spinnaker-333333?style=flat&logo=Spinnaker)
 ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=Sentry)
 ![Vault](https://img.shields.io/badge/-Vault-333333?style=flat&logo=Vault)
-![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
+![DataDog](https://img.shields.io/badge/-DataDog-333333?style=flat&logo=DataDog)
+![SonarCloud](https://img.shields.io/badge/-SonarCloud-333333?style=flat&logo=SonarCloud)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=AmazonS3)
+![DataSet](https://img.shields.io/badge/-DataSet-333333?style=flat&logo=DataSet)
+![incident.io](https://img.shields.io/badge/-incident.io-333333?style=flat&logo=incident.io)
 
 <details>
   
