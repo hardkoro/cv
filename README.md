@@ -19,10 +19,7 @@ Currently, I am building the best milkman on Earth at [Picnic Technologies B.V.]
 > July 2022 — Until now
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
-![Aiohttp](https://img.shields.io/badge/-Aiohttp-333333?style=flat&logo=Aiohttp)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![K8s](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
