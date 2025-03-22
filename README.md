@@ -266,6 +266,8 @@ Worked on a number of projects, including:
 ![Stress Management](https://img.shields.io/badge/-Stress%20Management-333333?style=flat&logo=Python)
 ![Time Management](https://img.shields.io/badge/-Time%20Management-333333?style=flat&logo=Python)
 
+## [Picnic Technologies](https://blog.picnic.nl/)
+
 **Tech Academy: Data Modelling Workshop**
 
 > Issued October 2024 | No Expiration Date
@@ -278,13 +280,29 @@ Worked on a number of projects, including:
 
 ![Incident Management](https://img.shields.io/badge/-incident.io-333333?style=flat&logo=incident.io)
 
-## [Picnic Technologies](https://blog.picnic.nl/)
-
 **Tech Academy: Working with RabbitMQ**
 
 > Issued June 2024 | No Expiration Date
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
+
+**Tech Academy: Working with MongoDB**
+
+> Issued October 2023 | No Expiration Date
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+
+**Tech Academy: Software Design Workshop**
+
+> Issued June 2023 | No Expiration Date
+
+![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat&logo=Python)
+
+**Tech Academy: Unit Testing Deep Dive**
+
+> Issued May 2023 | No Expiration Date
+
+![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-333333?style=flat&logo=Python)
 
 ## [Udemy](https://www.udemy.com/)
 
@@ -294,30 +312,6 @@ Worked on a number of projects, including:
 
 ![Software Architecture](https://img.shields.io/badge/-Software%20Architecture-333333?style=flat&logo=Python)
 ![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat&logo=Python)
-
-## [Picnic Technologies](https://blog.picnic.nl/)
-
-**Tech Academy: Working with MongoDB**
-
-> Issued October 2023 | No Expiration Date
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-
-## [Picnic Technologies](https://blog.picnic.nl/)
-
-**Tech Academy: Software Design Workshop**
-
-> Issued June 2023 | No Expiration Date
-
-![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat&logo=Python)
-
-## [Picnic Technologies](https://blog.picnic.nl/)
-
-**Tech Academy: Unit Testing Deep Dive**
-
-> Issued May 2023 | No Expiration Date
-
-![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-333333?style=flat&logo=Python)
 
 ## [ArjanCodes](https://www.arjancodes.com/)
 
