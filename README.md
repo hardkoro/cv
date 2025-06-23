@@ -258,6 +258,13 @@ Worked on a number of projects, including:
 
 ## [Lepaya](https://www.lepaya.com/)
 
+**Professionals Program - Create Buy In**
+
+> Issued June 2025 | No Expiration Date
+
+![Project Management](https://img.shields.io/badge/-Project%20Management-333333?style=flat&logo=Python)
+![Time Management](https://img.shields.io/badge/-Time%20Management-333333?style=flat&logo=Python)
+
 **Lepaya Fundamentals**
 
 > Issued November 2024 | No Expiration Date
