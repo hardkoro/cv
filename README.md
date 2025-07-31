@@ -358,6 +358,27 @@ Worked on a number of projects, including:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
+# 📄 Publications
+
+## [From Fragile to Flexible: Rebuilding Our Slotting Brain from Scratch](https://blog.picnic.nl/from-fragile-to-flexible-rebuilding-our-slotting-brain-from-scratch-c575778591af)
+
+> Published July 2025 | Picnic Engineering
+
+![Software Architecture](https://img.shields.io/badge/-Software%20Architecture-333333?style=flat&logo=Python)
+![System Design](https://img.shields.io/badge/-System%20Design-333333?style=flat&logo=Python)
+
+## [Warehouse order picking. Order picker routing problem](https://elibrary.ru/item.asp?id=23409957)
+
+> Published April 2015 | Science and Education
+
+![Scientific Article](https://img.shields.io/badge/-Scientific%20Article-333333?style=flat&logo=Python)
+
+## [Warehouse order picking. Overview](https://elibrary.ru/item.asp?id=23409924)
+
+> Published March 2015 | Science and Education
+> 
+![Scientific Article](https://img.shields.io/badge/-Scientific%20Article-333333?style=flat&logo=Python)
+
 # ⚙️ Skills and Technology Stack
 
 - Team player: been a part of a small development team with one subordinate
