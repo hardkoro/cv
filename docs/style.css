@@ -198,45 +198,6 @@ img.id-badge {
   margin-bottom: 0.15rem;
 }
 
-.stack-row {
-  list-style: none;
-  margin-left: -1rem;
-  margin-bottom: 0.5rem;
-}
-
-.stack-label {
-  display: block;
-  font-family: "Avenir Next", "Segoe UI", sans-serif;
-  font-size: 0.68rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--sidebar-muted);
-  margin-bottom: 0.22rem;
-}
-
-.pill-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.28rem;
-}
-
-.pill {
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  border-radius: 999px;
-  padding: 0.1rem 0.55rem;
-  font-size: 0.7rem;
-  font-family: "Avenir Next", "Segoe UI", sans-serif;
-  color: var(--sidebar-ink);
-}
-
-.stack-note {
-  font-size: 0.68rem;
-  color: var(--sidebar-muted);
-  margin-top: 0.2rem;
-  font-style: italic;
-}
-
 .main-col {
   padding: 1.5rem 2rem 1.25rem;
 }
@@ -284,12 +245,12 @@ img.id-badge {
   margin-bottom: 0;
 }
 
+.main-col .entry.flat ul {
+  list-style: none;
+  padding-left: 0;
+}
+
 .entry-head {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.35rem;
   margin-bottom: 0.2rem;
 }
 
@@ -299,9 +260,10 @@ img.id-badge {
 }
 
 .entry-head .meta {
+  display: block;
   color: var(--muted);
   font-size: 0.75rem;
-  white-space: nowrap;
+  margin-top: 0.1rem;
   font-family: "Avenir Next", "Segoe UI", sans-serif;
 }
 

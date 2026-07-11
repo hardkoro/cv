@@ -57,10 +57,6 @@ def inline(text):
     return text
 
 
-def strip_tags(text):
-    return re.sub(r"<[^>]+>", "", text)
-
-
 def parse_readme(md_text):
     lines = md_text.splitlines()
     doc = {"name": "", "contact": "", "photo": "", "sections": []}
@@ -146,55 +142,15 @@ def parse_readme(md_text):
     return doc
 
 
-def split_top_level(text, sep):
-    """Split on sep, but not inside parentheses (e.g. "a, b (c, d)")."""
-    parts, buf, depth = [], [], 0
-    for ch in text:
-        if ch == "(":
-            depth += 1
-        elif ch == ")":
-            depth = max(0, depth - 1)
-        if ch == sep and depth == 0:
-            parts.append("".join(buf))
-            buf = []
-        else:
-            buf.append(ch)
-    parts.append("".join(buf))
-    return parts
-
-
-def render_stack_bullet(bullet_html):
-    """Render a "**Label**: a, b, c; previous: d, e" bullet as label + pills."""
-    match = re.match(r"(<strong>.+?</strong>):\s*(.+)", bullet_html)
-    if not match:
-        return f"<li>{bullet_html}</li>"
-    label, rest = match.groups()
-    groups = split_top_level(rest, ";")
-    pills = "".join(
-        f'<span class="pill">{token}</span>'
-        for token in (
-            re.sub(r"\s*\([^)]*\)", "", raw).strip()
-            for raw in split_top_level(groups[0], ",")
-        )
-        if token
-    )
-    note = ""
-    if len(groups) > 1:
-        note_text = "; ".join(g.strip() for g in groups[1:])
-        note = f'<div class="stack-note">{note_text}</div>'
-    return (
-        '<li class="stack-row">'
-        f'<span class="stack-label">{label}</span>'
-        f'<div class="pill-row">{pills}</div>{note}'
-        "</li>"
-    )
+def strip_brackets(text):
+    return re.sub(r"\s*\([^)]*\)", "", text).strip()
 
 
 def render_items(items):
     out = []
     for item in items:
-        out.append('<div class="entry">')
-        heading_text = strip_tags(item["heading"]) if item["heading"] else ""
+        flat = item["heading"] is None
+        out.append(f'<div class="entry{" flat" if flat else ""}">')
         if item["heading"]:
             out.append(f'<div class="entry-head"><h3>{item["heading"]}</h3>')
             if item["meta"]:
@@ -203,12 +159,8 @@ def render_items(items):
         for para in item["text"]:
             out.append(f'<p class="entry-text">{para}</p>')
         if item["bullets"]:
-            is_stack = heading_text.strip() == "Technical Stack"
             out.append("<ul>")
-            if is_stack:
-                out.extend(render_stack_bullet(b) for b in item["bullets"])
-            else:
-                out.extend(f"<li>{b}</li>" for b in item["bullets"])
+            out.extend(f"<li>{strip_brackets(b)}</li>" for b in item["bullets"])
             out.append("</ul>")
         out.append("</div>")
     return "\n".join(out)

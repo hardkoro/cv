@@ -39,7 +39,9 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 
 ## 🧑‍🎓 Education
 
-**Bauman Moscow State Technical University (BMSTU)** — B.Sc. / M.Sc. in Robotics & CAD/CAE Systems
+**Bauman Moscow State Technical University (BMSTU)**
+
+B.Sc. / M.Sc. in Robotics & CAD/CAE Systems
 
 📍 Moscow | Sep 2009 – Jun 2015
 
