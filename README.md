@@ -4,7 +4,7 @@
 
 ## 🙂 Profile
 
-Software Engineer with 7+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at [Picnic Technologies](https://picnic.tech/), focusing on system reliability, observability, SLOs/KPIs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.
+Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at [Picnic Technologies](https://picnic.tech/), focusing on system reliability, observability, SLOs/KPIs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.
 
 ## 💼 Experience
 
@@ -12,13 +12,17 @@ Software Engineer with 7+ years of experience delivering backend systems, data p
 
 📍 Amsterdam | July 2022 – Present
 
-- **Led rollout of new Slotting Service**, replacing legacy system: seamless migration across warehouses, minimal downtime, improved user satisfaction.
+- **Led rollout of new Slotting Service (WSLS)**, replacing the legacy system across all manual and hybrid warehouses: decoupled planned from physical slotting, migrated with minimal downtime, and enabled full decommissioning of the legacy service.
+- **Migrated the suggestions pipeline to Argo Workflows**, improving processing speed by 80% and significantly increasing the maintainability and durability of the flow.
+- Led design and development of a new **ZPR area and slotting automation** (fake compartments, ADS integration) for a fulfilment center rollout.
+- Pioneered **AI-driven development (AIDD)** in the domain: built custom Claude Code skills, agents, and workflows to boost developer productivity and streamline code reviews.
 - Defined and monitored **SLOs/KPIs** for Slotting Service, reducing operational incidents and clarifying decision-making.
 - Introduced **observability best practices** using Sentry and Datadog, improving incident response time and system reliability.
 - Scoped and coordinated **cross-team epics** (e.g., Layout Management, UI), balancing technical and business requirements.
-- Mentored teammates in best practices, code reviews, and system design principles.
+- Led a **cross-team revamp of the shared HTTP client and Python utility library** used across Picnic tech, unblocking a critical cross-market migration to enforce unique warehouse IDs as part of Picnic's European expansion.
+- Mentored teammates and coached new engineers to self-sufficiency through code reviews, knowledge-sharing sessions, and system design guidance.
 - Implemented **event-driven integrations** with RabbitMQ, increasing agility and real-time data processing.
-- Developed ETL pipelines and automated warehouse processes, improving **capacity planning, error reduction, and operational efficiency**.
+- Developed ETL pipelines and automated warehouse processes, including a **volume-based capacity calculation algorithm**, improving capacity planning, error reduction, and operational efficiency.
 
 ### [Rusta Service LLC](https://kudo-paint.ru/) — _Software Engineer_
 
@@ -30,7 +34,7 @@ Software Engineer with 7+ years of experience delivering backend systems, data p
 
 ### [Troll Auto LLC](http://troll-auto.ru/) — _Software Engineer_
 
-📍 Moscow | Jan 2018 – Feb 2021
+📍 Moscow | Mar 2016 – Feb 2021
 
 - Developed and maintained EMS systems: database design, business logic, forms, and reports.
 - Implemented batch and address-based storage, reducing errors and improving inventory control.
@@ -79,5 +83,5 @@ Publications on **warehouse order picking and routing algorithms**.
 
 - **Languages**: Python, TypeScript; previous: Delphi, C#, JS
 - **Frameworks**: FastAPI, Pytest; previous: Django, DRF, Flask, React
-- **Data & DevOps**: PostgreSQL, Snowflake, RabbitMQ, Docker, Kubernetes, Terraform, Datadog, Sentry
-- **Tools**: Git, Jira, Confluence, Parabol, PlantUML, incident.io
+- **Data & DevOps**: PostgreSQL, Snowflake, RabbitMQ, Docker, Kubernetes, Terraform, Argo Workflows, Datadog, Sentry, ClickHouse
+- **Tools**: Git, Jira, Confluence, Parabol, PlantUML, incident.io, GitHub Copilot, Claude Code (AIDD: custom skills/agents/workflows)
