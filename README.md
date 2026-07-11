@@ -1,6 +1,6 @@
 # 👋 Evgenii Korobkov
 
-📍 Haarlem / Amsterdam, NL | 📧 eug.korobkov@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hardkoro/) / [GitHub](https://github.com/hardkoro)
+📍 Purmerend / Amsterdam, NL | 📧 eug.korobkov@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hardkoro/) / [GitHub](https://github.com/hardkoro)
 
 ## 🙂 Profile
 
@@ -8,17 +8,17 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 
 ## 💼 Experience
 
-### [Picnic Technologies](https://picnic.tech/) — _Software Engineer / Technical Lead Initiatives_
+### [Picnic Technologies](https://picnic.tech/) — _Software Engineer_
 
 📍 Amsterdam | July 2022 – Present
 
-- **Migrated the suggestions pipeline to Argo Workflows**, improving processing speed by 80% and significantly increasing the maintainability and durability of the flow.
-- **Led rollout of new Slotting Service (WSLS)**, replacing the legacy system across all manual and hybrid warehouses and enabling its full decommissioning.
-- Led design and development of a new **ZPR area and slotting automation** (fake compartments, ADS integration) for a fulfilment center rollout.
-- **Led a cross-team revamp of the shared HTTP client and Python utility library** used across Picnic tech, unblocking a critical cross-market migration to enforce unique warehouse IDs as part of Picnic's European expansion.
-- Pioneered **AI-driven development (AIDD)** in the domain: built custom Claude Code skills, agents, and workflows to boost developer productivity and streamline code reviews.
-- Defined **SLOs/KPIs** and introduced **observability practices** (Sentry, Datadog), reducing operational incidents and improving response time.
-- Mentored teammates, coached new engineers to self-sufficiency, and scoped cross-team epics (e.g., Layout Management, UI).
+- **Migrated the multi-service workflow that optimizes warehouse utilization and generates daily improvement suggestions** to Argo Workflows, improving processing speed by 80% and significantly increasing the maintainability and durability of the flow.
+- **Led rollout of the new Slotting Service (WSLS)** — deciding where products are stored in the warehouse — replacing the legacy system across all manual and automated warehouses and enabling its full decommissioning.
+- **Led design and development of slotting automation to support zone picking**, facilitating a 2x increase in the problem space, for a fulfilment center rollout.
+- **Led a cross-team revamp of the shared HTTP client and Python utility library** used across all of Picnic's tech stack, unblocking a critical migration to ensure unique, clearly identifiable sites across markets while supporting legacy flows, as part of Picnic's European expansion.
+- **Pioneered AI-driven development (AIDD) in the domain**: turned multi-service releases into a one-click operation (down from a ~10-minute manual process), built an early feedback loop with cross-stage persistence to scope and implement work with AI (cutting token costs), and set up the team's AIDD tooling and practices from scratch.
+- **Defined SLOs/KPIs and introduced observability practices** (Sentry, Datadog), reducing operational incidents and improving response time.
+- **Mentored teammates and coached new engineers to self-sufficiency**, and scoped cross-team epics (e.g., Layout Management, UI).
 
 ### [Rusta Service LLC](https://kudo-paint.ru/) — _Software Engineer_
 
@@ -32,14 +32,8 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 
 📍 Moscow | Mar 2016 – Feb 2021
 
-- Developed and maintained EMS systems: database design, business logic, forms, and reports.
+- Developed and maintained Enterprise Management System (EMS) software: database design, business logic, forms, and reports.
 - Implemented batch and address-based storage, reducing errors and improving inventory control.
-
-### [Gogol’s House Museum](https://www.domgogolya.ru/en/) — _Website Content Manager (Part-time)_
-
-📍 Moscow | Jul 2012 – Dec 2017
-
-- Managed website content, templates, and MySQL database stats; wrote articles and structured content for public access.
 
 ## 🧑‍🎓 Education
 
@@ -77,7 +71,7 @@ Publications on **warehouse order picking and routing algorithms**.
 
 ### Technical Stack
 
-- **Languages**: Python, TypeScript; previous: Delphi, C#, JS
-- **Frameworks**: FastAPI, Pytest; previous: Django, DRF, Flask, React
+- **Languages**: Python, TypeScript
+- **Frameworks**: FastAPI, Pytest, Behave (previously Django, DRF, Flask, React)
 - **Data & DevOps**: PostgreSQL, Snowflake, RabbitMQ, Docker, Kubernetes, Terraform, Argo Workflows, Datadog, Sentry, ClickHouse
 - **Tools**: Git, Jira, Confluence, Parabol, PlantUML, incident.io, GitHub Copilot, Claude Code (AIDD: custom skills/agents/workflows)

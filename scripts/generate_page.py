@@ -3,8 +3,8 @@
 
 README.md is the source of truth. This script parses its markdown structure
 (headings, bullet lists, inline **bold** / _italic_ / [links]()) and renders
-a styled, single-page, print-friendly resume to docs/index.html for GitHub
-Pages. Run after every README.md edit:
+a styled, two-column, print-friendly (single A4 page) resume to
+docs/index.html for GitHub Pages. Run after every README.md edit:
 
     python3 scripts/generate_page.py
 """
@@ -15,6 +15,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 OUT = ROOT / "docs" / "index.html"
+
+# Section titles (post emoji-strip) routed to the narrow sidebar column;
+# everything else renders in the main column, in README order.
+SIDEBAR_TITLES = {"skills", "education", "certifications", "publications"}
 
 INLINE_PATTERNS = [
     (re.compile(r"\*\*(.+?)\*\*"), r"<strong>\1</strong>"),
@@ -48,6 +52,10 @@ def inline(text):
     for pattern, repl in INLINE_PATTERNS:
         text = pattern.sub(repl, text)
     return text
+
+
+def strip_tags(text):
+    return re.sub(r"<[^>]+>", "", text)
 
 
 def parse_readme(md_text):
@@ -129,10 +137,52 @@ def parse_readme(md_text):
     return doc
 
 
+def split_top_level(text, sep):
+    """Split on sep, but not inside parentheses (e.g. "a, b (c, d)")."""
+    parts, buf, depth = [], [], 0
+    for ch in text:
+        if ch == "(":
+            depth += 1
+        elif ch == ")":
+            depth = max(0, depth - 1)
+        if ch == sep and depth == 0:
+            parts.append("".join(buf))
+            buf = []
+        else:
+            buf.append(ch)
+    parts.append("".join(buf))
+    return parts
+
+
+def render_stack_bullet(bullet_html):
+    """Render a "**Label**: a, b, c; previous: d, e" bullet as label + pills."""
+    match = re.match(r"(<strong>.+?</strong>):\s*(.+)", bullet_html)
+    if not match:
+        return f"<li>{bullet_html}</li>"
+    label, rest = match.groups()
+    groups = split_top_level(rest, ";")
+    pills = "".join(
+        f'<span class="pill">{token.strip()}</span>'
+        for token in split_top_level(groups[0], ",")
+        if token.strip()
+    )
+    note = ""
+    if len(groups) > 1:
+        note_text = "; ".join(g.strip() for g in groups[1:])
+        note = f'<div class="stack-note">{note_text}</div>'
+    return (
+        '<li class="stack-row">'
+        f'<span class="stack-label">{label}</span>'
+        f'<div class="pill-row">{pills}</div>{note}'
+        "</li>"
+    )
+
+
 def render_items(items):
     out = []
     for item in items:
         out.append('<div class="entry">')
+        heading_text = strip_tags(item["heading"]) if item["heading"] else ""
         if item["heading"]:
             out.append(f'<div class="entry-head"><h3>{item["heading"]}</h3>')
             if item["meta"]:
@@ -141,8 +191,12 @@ def render_items(items):
         for para in item["text"]:
             out.append(f'<p class="entry-text">{para}</p>')
         if item["bullets"]:
+            is_stack = heading_text.strip() == "Technical Stack"
             out.append("<ul>")
-            out.extend(f"<li>{b}</li>" for b in item["bullets"])
+            if is_stack:
+                out.extend(render_stack_bullet(b) for b in item["bullets"])
+            else:
+                out.extend(f"<li>{b}</li>" for b in item["bullets"])
             out.append("</ul>")
         out.append("</div>")
     return "\n".join(out)
@@ -154,10 +208,26 @@ def render_section(section):
         body.append(f'<p class="intro">{para}</p>')
     body.append(render_items(section["items"]))
     slug = re.sub(r"[^a-z0-9]+", "-", section["title"].lower()).strip("-")
-    return f'''<section class="card" id="{slug}">
+    return f'''<section class="block" id="{slug}">
 <h2>{section["title"]}</h2>
 {"".join(body)}
 </section>'''
+
+
+def extract_role(doc):
+    for section in doc["sections"]:
+        if section["title"].strip().lower() == "experience":
+            for item in section["items"]:
+                if item["heading"]:
+                    match = re.search(r"<em>(.+?)</em>", item["heading"])
+                    if match:
+                        return match.group(1)
+    return ""
+
+
+def initials(name):
+    parts = [p for p in re.split(r"\s+", name.strip()) if p]
+    return "".join(p[0].upper() for p in parts[:2])
 
 
 PAGE_TEMPLATE = """<!DOCTYPE html>
@@ -170,23 +240,30 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="hero">
-  <div class="hero-inner">
-    <h1>{name}</h1>
-    <p class="contact">{contact}</p>
-    <button class="print-btn" onclick="window.print()">Download / Print PDF</button>
+<div class="page">
+  <header class="masthead">
+    <div class="id-badge">{initials}</div>
+    <div class="id-text">
+      <h1>{name}</h1>
+      <p class="role">{role}</p>
+      <p class="contact">{contact}</p>
+    </div>
+    <button class="print-btn" onclick="window.print()">Print / Save PDF</button>
+  </header>
+  <div class="layout">
+    <aside class="sidebar">
+{sidebar}
+    </aside>
+    <div class="main-col">
+{main}
+    </div>
   </div>
-</header>
-<main>
-{sections}
-</main>
-<footer>
-  <p>
+  <footer>
     Generated from
     <a href="https://github.com/hardkoro/cv/blob/main/README.md">README.md</a>
     — the source of truth for this page.
-  </p>
-</footer>
+  </footer>
+</div>
 </body>
 </html>
 """
@@ -195,12 +272,23 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 def build():
     md_text = README.read_text(encoding="utf-8")
     doc = parse_readme(md_text)
-    sections_html = "\n".join(render_section(s) for s in doc["sections"])
+
+    sidebar_html, main_html = [], []
+    for section in doc["sections"]:
+        rendered = render_section(section)
+        if section["title"].strip().lower() in SIDEBAR_TITLES:
+            sidebar_html.append(rendered)
+        else:
+            main_html.append(rendered)
+
     page = PAGE_TEMPLATE.format(
         name=doc["name"],
         tagline=f"CV of {doc['name']}",
+        role=extract_role(doc),
+        initials=initials(doc["name"]),
         contact=doc["contact"],
-        sections=sections_html,
+        sidebar="\n".join(sidebar_html),
+        main="\n".join(main_html),
     )
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(page, encoding="utf-8")

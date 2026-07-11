@@ -8,67 +8,23 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="hero">
-  <div class="hero-inner">
-    <h1>Evgenii Korobkov</h1>
-    <p class="contact">📍 Haarlem / Amsterdam, NL | 📧 eug.korobkov@gmail.com | 🌐 <a href="https://www.linkedin.com/in/hardkoro/" target="_blank" rel="noopener">LinkedIn</a> / <a href="https://github.com/hardkoro" target="_blank" rel="noopener">GitHub</a></p>
-    <button class="print-btn" onclick="window.print()">Download / Print PDF</button>
-  </div>
-</header>
-<main>
-<section class="card" id="profile">
-<h2>Profile</h2>
-<p class="intro">Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at <a href="https://picnic.tech/" target="_blank" rel="noopener">Picnic Technologies</a>, focusing on system reliability, observability, SLOs/KPIs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.</p>
-</section>
-<section class="card" id="experience">
-<h2>Experience</h2>
-<div class="entry">
-<div class="entry-head"><h3><a href="https://picnic.tech/" target="_blank" rel="noopener">Picnic Technologies</a> — <em>Software Engineer / Technical Lead Initiatives</em></h3>
-<span class="meta">Amsterdam | July 2022 – Present</span>
-</div>
-<ul>
-<li><strong>Migrated the suggestions pipeline to Argo Workflows</strong>, improving processing speed by 80% and significantly increasing the maintainability and durability of the flow.</li>
-<li><strong>Led rollout of new Slotting Service (WSLS)</strong>, replacing the legacy system across all manual and hybrid warehouses and enabling its full decommissioning.</li>
-<li>Led design and development of a new <strong>ZPR area and slotting automation</strong> (fake compartments, ADS integration) for a fulfilment center rollout.</li>
-<li><strong>Led a cross-team revamp of the shared HTTP client and Python utility library</strong> used across Picnic tech, unblocking a critical cross-market migration to enforce unique warehouse IDs as part of Picnic&#x27;s European expansion.</li>
-<li>Pioneered <strong>AI-driven development (AIDD)</strong> in the domain: built custom Claude Code skills, agents, and workflows to boost developer productivity and streamline code reviews.</li>
-<li>Defined <strong>SLOs/KPIs</strong> and introduced <strong>observability practices</strong> (Sentry, Datadog), reducing operational incidents and improving response time.</li>
-<li>Mentored teammates, coached new engineers to self-sufficiency, and scoped cross-team epics (e.g., Layout Management, UI).</li>
-</ul>
-</div>
-<div class="entry">
-<div class="entry-head"><h3><a href="https://kudo-paint.ru/" target="_blank" rel="noopener">Rusta Service LLC</a> — <em>Software Engineer</em></h3>
-<span class="meta">Moscow / Remote | Mar 2021 – Jun 2022</span>
-</div>
-<ul>
-<li>Maintained and enhanced ERP and WMS systems: improved order picking, storekeeping, and barcoding processes.</li>
-<li>Introduced Python and Airflow for ETL and automated data pipelines, accelerating analytics and operational reporting.</li>
-<li>Improved data quality and operational efficiency through EDI integration and automated document processing.</li>
-</ul>
-</div>
-<div class="entry">
-<div class="entry-head"><h3><a href="http://troll-auto.ru/" target="_blank" rel="noopener">Troll Auto LLC</a> — <em>Software Engineer</em></h3>
-<span class="meta">Moscow | Mar 2016 – Feb 2021</span>
-</div>
-<ul>
-<li>Developed and maintained EMS systems: database design, business logic, forms, and reports.</li>
-<li>Implemented batch and address-based storage, reducing errors and improving inventory control.</li>
-</ul>
-</div>
-<div class="entry">
-<div class="entry-head"><h3><a href="https://www.domgogolya.ru/en/" target="_blank" rel="noopener">Gogol’s House Museum</a> — <em>Website Content Manager (Part-time)</em></h3>
-<span class="meta">Moscow | Jul 2012 – Dec 2017</span>
-</div>
-<ul>
-<li>Managed website content, templates, and MySQL database stats; wrote articles and structured content for public access.</li>
-</ul>
-</div>
-</section>
-<section class="card" id="education">
+<div class="page">
+  <header class="masthead">
+    <div class="id-badge">EK</div>
+    <div class="id-text">
+      <h1>Evgenii Korobkov</h1>
+      <p class="role">Software Engineer</p>
+      <p class="contact">📍 Purmerend / Amsterdam, NL | 📧 eug.korobkov@gmail.com | 🌐 <a href="https://www.linkedin.com/in/hardkoro/" target="_blank" rel="noopener">LinkedIn</a> / <a href="https://github.com/hardkoro" target="_blank" rel="noopener">GitHub</a></p>
+    </div>
+    <button class="print-btn" onclick="window.print()">Print / Save PDF</button>
+  </header>
+  <div class="layout">
+    <aside class="sidebar">
+<section class="block" id="education">
 <h2>Education</h2>
 <p class="intro"><strong>Bauman Moscow State Technical University (BMSTU)</strong> — B.Sc. / M.Sc. in Robotics &amp; CAD/CAE Systems</p><p class="intro">📍 Moscow | Sep 2009 – Jun 2015</p><p class="intro">Thesis: <em>Warehouse Management System development. Order picking subsystem</em> (Excellent)</p><p class="intro">Publications on <strong>warehouse order picking and routing algorithms</strong>.</p>
 </section>
-<section class="card" id="certifications">
+<section class="block" id="certifications">
 <h2>Certifications</h2>
 <div class="entry">
 <ul>
@@ -106,7 +62,7 @@
 </ul>
 </div>
 </section>
-<section class="card" id="publications">
+<section class="block" id="publications">
 <h2>Publications</h2>
 <div class="entry">
 <ul>
@@ -124,7 +80,7 @@
 </ul>
 </div>
 </section>
-<section class="card" id="skills">
+<section class="block" id="skills">
 <h2>Skills</h2>
 <div class="entry">
 <div class="entry-head"><h3>Leadership &amp; Soft Skills</h3>
@@ -139,20 +95,62 @@
 <div class="entry-head"><h3>Technical Stack</h3>
 </div>
 <ul>
-<li><strong>Languages</strong>: Python, TypeScript; previous: Delphi, C#, JS</li>
-<li><strong>Frameworks</strong>: FastAPI, Pytest; previous: Django, DRF, Flask, React</li>
-<li><strong>Data &amp; DevOps</strong>: PostgreSQL, Snowflake, RabbitMQ, Docker, Kubernetes, Terraform, Argo Workflows, Datadog, Sentry, ClickHouse</li>
-<li><strong>Tools</strong>: Git, Jira, Confluence, Parabol, PlantUML, incident.io, GitHub Copilot, Claude Code (AIDD: custom skills/agents/workflows)</li>
+<li class="stack-row"><span class="stack-label"><strong>Languages</strong></span><div class="pill-row"><span class="pill">Python</span><span class="pill">TypeScript</span></div></li>
+<li class="stack-row"><span class="stack-label"><strong>Frameworks</strong></span><div class="pill-row"><span class="pill">FastAPI</span><span class="pill">Pytest</span><span class="pill">Behave (previously Django, DRF, Flask, React)</span></div></li>
+<li class="stack-row"><span class="stack-label"><strong>Data &amp; DevOps</strong></span><div class="pill-row"><span class="pill">PostgreSQL</span><span class="pill">Snowflake</span><span class="pill">RabbitMQ</span><span class="pill">Docker</span><span class="pill">Kubernetes</span><span class="pill">Terraform</span><span class="pill">Argo Workflows</span><span class="pill">Datadog</span><span class="pill">Sentry</span><span class="pill">ClickHouse</span></div></li>
+<li class="stack-row"><span class="stack-label"><strong>Tools</strong></span><div class="pill-row"><span class="pill">Git</span><span class="pill">Jira</span><span class="pill">Confluence</span><span class="pill">Parabol</span><span class="pill">PlantUML</span><span class="pill">incident.io</span><span class="pill">GitHub Copilot</span><span class="pill">Claude Code (AIDD: custom skills/agents/workflows)</span></div></li>
 </ul>
 </div>
 </section>
-</main>
-<footer>
-  <p>
+    </aside>
+    <div class="main-col">
+<section class="block" id="profile">
+<h2>Profile</h2>
+<p class="intro">Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at <a href="https://picnic.tech/" target="_blank" rel="noopener">Picnic Technologies</a>, focusing on system reliability, observability, SLOs/KPIs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.</p>
+</section>
+<section class="block" id="experience">
+<h2>Experience</h2>
+<div class="entry">
+<div class="entry-head"><h3><a href="https://picnic.tech/" target="_blank" rel="noopener">Picnic Technologies</a> — <em>Software Engineer</em></h3>
+<span class="meta">Amsterdam | July 2022 – Present</span>
+</div>
+<ul>
+<li><strong>Migrated the suggestions pipeline to Argo Workflows</strong>, improving processing speed by 80% and significantly increasing the maintainability and durability of the flow.</li>
+<li><strong>Led rollout of new Slotting Service (WSLS)</strong>, replacing the legacy system across all manual and hybrid warehouses and enabling its full decommissioning.</li>
+<li><strong>Led design and development of a new ZPR area and slotting automation</strong> (fake compartments, ADS integration) for a fulfilment center rollout.</li>
+<li><strong>Led a cross-team revamp of the shared HTTP client and Python utility library</strong> used across all of Picnic&#x27;s tech stack, unblocking a critical migration to enforce unique warehouse IDs across markets as part of Picnic&#x27;s European expansion.</li>
+<li><strong>Pioneered AI-driven development (AIDD) in the domain</strong>: turned multi-service releases into a one-click operation (down from a ~10-minute manual process), built an evidence-driven pipeline for scoping and implementing work with AI (cutting token costs), and set up the team&#x27;s AIDD tooling and practices from scratch.</li>
+<li><strong>Defined SLOs/KPIs and introduced observability practices</strong> (Sentry, Datadog), reducing operational incidents and improving response time.</li>
+<li><strong>Mentored teammates and coached new engineers to self-sufficiency</strong>, and scoped cross-team epics (e.g., Layout Management, UI).</li>
+</ul>
+</div>
+<div class="entry">
+<div class="entry-head"><h3><a href="https://kudo-paint.ru/" target="_blank" rel="noopener">Rusta Service LLC</a> — <em>Software Engineer</em></h3>
+<span class="meta">Moscow / Remote | Mar 2021 – Jun 2022</span>
+</div>
+<ul>
+<li>Maintained and enhanced ERP and WMS systems: improved order picking, storekeeping, and barcoding processes.</li>
+<li>Introduced Python and Airflow for ETL and automated data pipelines, accelerating analytics and operational reporting.</li>
+<li>Improved data quality and operational efficiency through EDI integration and automated document processing.</li>
+</ul>
+</div>
+<div class="entry">
+<div class="entry-head"><h3><a href="http://troll-auto.ru/" target="_blank" rel="noopener">Troll Auto LLC</a> — <em>Software Engineer</em></h3>
+<span class="meta">Moscow | Mar 2016 – Feb 2021</span>
+</div>
+<ul>
+<li>Developed and maintained EMS systems: database design, business logic, forms, and reports.</li>
+<li>Implemented batch and address-based storage, reducing errors and improving inventory control.</li>
+</ul>
+</div>
+</section>
+    </div>
+  </div>
+  <footer>
     Generated from
     <a href="https://github.com/hardkoro/cv/blob/main/README.md">README.md</a>
     — the source of truth for this page.
-  </p>
-</footer>
+  </footer>
+</div>
 </body>
 </html>
