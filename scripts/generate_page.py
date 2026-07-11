@@ -17,8 +17,11 @@ README = ROOT / "README.md"
 OUT = ROOT / "docs" / "index.html"
 
 # Section titles (post emoji-strip) routed to the narrow sidebar column;
-# everything else renders in the main column, in README order.
-SIDEBAR_TITLES = {"skills", "education", "certifications", "publications"}
+# everything else renders in the main column, in README order. Certifications
+# stays in main so the two columns end up closer in height.
+SIDEBAR_TITLES = {"skills", "education", "publications"}
+
+IMAGE_RE = re.compile(r'<img\s+[^>]*src="([^"]+)"[^>]*>|!\[[^\]]*\]\(([^)]+)\)')
 
 INLINE_PATTERNS = [
     (re.compile(r"\*\*(.+?)\*\*"), r"<strong>\1</strong>"),
@@ -60,7 +63,7 @@ def strip_tags(text):
 
 def parse_readme(md_text):
     lines = md_text.splitlines()
-    doc = {"name": "", "contact": "", "sections": []}
+    doc = {"name": "", "contact": "", "photo": "", "sections": []}
     current_section = None
     current_sub = None
     i = 0
@@ -110,6 +113,12 @@ def parse_readme(md_text):
                     {"heading": None, "meta": "", "bullets": [bullet], "text": []}
                 )
             continue
+
+        if doc["name"] and not doc["photo"] and current_section is None:
+            image_match = IMAGE_RE.search(line)
+            if image_match:
+                doc["photo"] = image_match.group(1) or image_match.group(2)
+                continue
 
         # plain paragraph line: contact line (right after H1), a subsection meta
         # line (location/dates), or free-text intro/paragraph.
@@ -242,7 +251,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <body>
 <div class="page">
   <header class="masthead">
-    <div class="id-badge">{initials}</div>
+    {badge}
     <div class="id-text">
       <h1>{name}</h1>
       <p class="role">{role}</p>
@@ -269,6 +278,16 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 """
 
 
+def render_badge(doc):
+    name = html.escape(doc["name"])
+    if doc["photo"]:
+        src_path = ROOT / doc["photo"]
+        dest = OUT.parent / src_path.name
+        dest.write_bytes(src_path.read_bytes())
+        return f'<img class="id-badge" src="{dest.name}" alt="{name}">'
+    return f'<div class="id-badge">{initials(doc["name"])}</div>'
+
+
 def build():
     md_text = README.read_text(encoding="utf-8")
     doc = parse_readme(md_text)
@@ -281,16 +300,16 @@ def build():
         else:
             main_html.append(rendered)
 
+    OUT.parent.mkdir(exist_ok=True)
     page = PAGE_TEMPLATE.format(
         name=doc["name"],
         tagline=f"CV of {doc['name']}",
         role=extract_role(doc),
-        initials=initials(doc["name"]),
+        badge=render_badge(doc),
         contact=doc["contact"],
         sidebar="\n".join(sidebar_html),
         main="\n".join(main_html),
     )
-    OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(page, encoding="utf-8")
     print(f"Wrote {OUT.relative_to(ROOT)}")
 
