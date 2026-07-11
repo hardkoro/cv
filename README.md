@@ -49,9 +49,9 @@ Thesis: _Warehouse Management System development. Order picking subsystem_ (Exce
 
 ## 🏅 Certifications
 
-- **Tech Academy: Observability, Incident Response, Data Modelling, RabbitMQ, Software Design** — [Picnic Technologies](https://blog.picnic.nl/), 2022–2025
-- **Professionals Program – Create Buy In** – [Lepaya](https://www.lepaya.com/), 2025
-- **Lepaya Fundamentals** – [Lepaya](https://www.lepaya.com/), 2024
+- **Tech Academy: Observability, Incident Response, Data Modelling, RabbitMQ, Software Design** — [Picnic Technologies](https://blog.picnic.nl/), 2022 – 2025
+- **Professionals Program — Create Buy In** — [Lepaya](https://www.lepaya.com/), 2025
+- **Lepaya Fundamentals** — [Lepaya](https://www.lepaya.com/), 2024
 - **Microservices & Event-Driven Architecture** — [Udemy](https://www.udemy.com/certificate/UC-018c628d-a216-4f1b-b408-fb1fe9f1e5b3/), 2023
 - **Software Designer Mindset** — [ArjanCodes](https://app.kajabi.com/certificates/a3d0752f), 2023
 - **Hands-On Data Warehousing Essentials** — [Snowflake](https://achieve.snowflake.com/d373d7e9-330c-463d-ab59-611afd569665), 2022
@@ -60,8 +60,8 @@ Thesis: _Warehouse Management System development. Order picking subsystem_ (Exce
 ## 📜 Publications
 
 - _From Fragile to Flexible: Rebuilding Our Slotting Brain from Scratch_ — [Picnic Engineering](https://jobs.picnic.app/en/blogs/from-fragile-to-flexible-rebuilding-our-slotting-brain-from-scratch), 2025
-- _Warehouse order picking. Order picker routing problem_ – [Science and Education](https://elibrary.ru/item.asp?id=23409957), 2015
-- _Warehouse order picking. Overview_ – [Science and Education](https://elibrary.ru/item.asp?id=23409924), 2015
+- _Warehouse order picking. Order picker routing problem_ — [Science and Education](https://elibrary.ru/item.asp?id=23409957), 2015
+- _Warehouse order picking. Overview_ — [Science and Education](https://elibrary.ru/item.asp?id=23409924), 2015
 
 ## ⚙️ Skills
 
@@ -69,7 +69,7 @@ Thesis: _Warehouse Management System development. Order picking subsystem_ (Exce
 
 - Mentoring, project orchestration, cross-team collaboration, requirements gathering, decision-making based on SLOs/KPIs
 - Responsibility, attention to detail, initiative, emotional resilience
-- Languages: 🇷🇺 Russian (native), 🇬🇧 English (C1), 🇳🇱 Dutch (B1)
+- Languages: Russian (native), English (C1), Dutch (B1)
 
 ### Technical Stack
 

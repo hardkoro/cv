@@ -20,7 +20,7 @@ body {
   font-family: "Iowan Old Style", "Palatino Linotype", Georgia, "Times New Roman", serif;
   color: var(--ink);
   background: var(--bg);
-  font-size: 13px;
+  font-size: 0.8125rem;
   line-height: 1.42;
 }
 
@@ -309,9 +309,15 @@ footer {
     margin: 6mm 9mm;
   }
 
+  /* Scaling the root font-size scales every rem-based rule (both columns
+     use rem consistently) by the same factor, so the screen proportions
+     carry over instead of drifting when print shrinks things further. */
+  html {
+    font-size: 12px;
+  }
+
   body {
     background: #fff;
-    font-size: 10px;
   }
 
   .page {
@@ -324,99 +330,9 @@ footer {
     display: none;
   }
 
-  .masthead {
-    padding: 0 0 0.5rem;
-    gap: 0.7rem;
-  }
-
-  .id-badge {
-    width: 2.5rem;
-    height: 2.5rem;
-    font-size: 0.95rem;
-  }
-
-  .id-text h1 {
-    font-size: 1.3rem;
-  }
-
-  .id-text .role {
-    font-size: 0.75rem;
-    margin: 0.1rem 0 0.2rem;
-  }
-
-  .id-text .contact {
-    font-size: 0.74rem;
-  }
-
   .sidebar {
-    padding: 0.55rem 0.8rem;
-    line-height: 1.18;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
-  }
-
-  .sidebar .block {
-    margin-bottom: 0.5rem;
-  }
-
-  .sidebar h2 {
-    margin-bottom: 0.3rem;
-    padding-bottom: 0.15rem;
-  }
-
-  .sidebar li,
-  .sidebar .intro,
-  .sidebar .entry-text,
-  .sidebar .meta-line {
-    font-size: 0.68rem;
-    margin-bottom: 0.14rem;
-  }
-
-  .sidebar .entry {
-    margin-bottom: 0.24rem;
-  }
-
-  .sidebar .entry-head h3 {
-    font-size: 0.72rem;
-  }
-
-  .stack-label {
-    font-size: 0.6rem;
-    margin-bottom: 0.12rem;
-  }
-
-  .stack-row {
-    margin-bottom: 0.22rem;
-  }
-
-  .pill {
-    padding: 0.01rem 0.35rem;
-    font-size: 0.58rem;
-    line-height: 1.2;
-  }
-
-  .pill-row {
-    gap: 0.14rem;
-  }
-
-  .main-col {
-    padding: 0.9rem 0 0.9rem 1.2rem;
-  }
-
-  .main-col .block {
-    margin-bottom: 0.75rem;
-  }
-
-  .main-col .entry {
-    margin-bottom: 0.55rem;
-  }
-
-  .main-col .entry ul {
-    margin-top: 0.15rem;
-  }
-
-  .main-col .entry li {
-    margin-bottom: 0.12rem;
   }
 
   footer {
