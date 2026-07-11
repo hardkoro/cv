@@ -1,8 +1,8 @@
 :root {
   --ink: #1a1d23;
   --muted: #5b6472;
-  --accent: #2f6690;
-  --accent-soft: #e4edf3;
+  --accent: #836434;
+  --accent-soft: #f1e9dc;
   --border: #e4e0da;
   --bg: #f4f1ec;
   --card-bg: #ffffff;
@@ -121,7 +121,7 @@ img.id-badge {
 }
 
 .print-btn:hover {
-  background: #234d6c;
+  background: #6a5029;
 }
 
 .layout {

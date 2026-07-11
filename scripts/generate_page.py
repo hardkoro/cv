@@ -171,9 +171,12 @@ def render_stack_bullet(bullet_html):
     label, rest = match.groups()
     groups = split_top_level(rest, ";")
     pills = "".join(
-        f'<span class="pill">{token.strip()}</span>'
-        for token in split_top_level(groups[0], ",")
-        if token.strip()
+        f'<span class="pill">{token}</span>'
+        for token in (
+            re.sub(r"\s*\([^)]*\)", "", raw).strip()
+            for raw in split_top_level(groups[0], ",")
+        )
+        if token
     )
     note = ""
     if len(groups) > 1:

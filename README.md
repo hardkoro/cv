@@ -45,8 +45,6 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 
 Thesis: _Warehouse Management System development. Order picking subsystem_ (Excellent)
 
-Publications on **warehouse order picking and routing algorithms**.
-
 ## 🏅 Certifications
 
 - **Tech Academy: Observability, Incident Response, Data Modelling, RabbitMQ, Software Design** — [Picnic Technologies](https://blog.picnic.nl/), 2022–2025
@@ -59,7 +57,7 @@ Publications on **warehouse order picking and routing algorithms**.
 
 ## 📜 Publications
 
-- _From Fragile to Flexible: Rebuilding Our Slotting Brain from Scratch_ — [Picnic Engineering](https://blog.picnic.nl/from-fragile-to-flexible-rebuilding-our-slotting-brain-from-scratch-c575778591af), 2025
+- _From Fragile to Flexible: Rebuilding Our Slotting Brain from Scratch_ — [Picnic Engineering](https://jobs.picnic.app/en/blogs/from-fragile-to-flexible-rebuilding-our-slotting-brain-from-scratch), 2025
 - _Warehouse order picking. Order picker routing problem_ – [Science and Education](https://elibrary.ru/item.asp?id=23409957), 2015
 - _Warehouse order picking. Overview_ – [Science and Education](https://elibrary.ru/item.asp?id=23409924), 2015
 
@@ -69,7 +67,7 @@ Publications on **warehouse order picking and routing algorithms**.
 
 - Mentoring, project orchestration, cross-team collaboration, requirements gathering, decision-making based on SLOs/KPIs
 - Responsibility, attention to detail, initiative, emotional resilience
-- Languages: Russian (native), English (C1), Dutch (B1)
+- Languages: 🇷🇺 Russian (native), 🇬🇧 English (C1), 🇳🇱 Dutch (B1)
 
 ### Technical Stack
 
