@@ -2,7 +2,7 @@
 
 <img src="assets/profile.jpeg" alt="Evgenii Korobkov" width="120" align="right" />
 
-📍 Purmerend / Amsterdam, NL | 📧 [eug.korobkov@gmail.com](mailto:eug.korobkov@gmail.com) | 🌐 [linkedin.com/in/hardkoro](https://www.linkedin.com/in/hardkoro/) | 🧑‍💻 [github.com/hardkoro](https://github.com/hardkoro)
+📍 Amsterdam, NL | 📧 [eug.korobkov@gmail.com](mailto:eug.korobkov@gmail.com) | 🌐 [linkedin.com/in/hardkoro](https://www.linkedin.com/in/hardkoro/) | 🧑‍💻 [github.com/hardkoro](https://github.com/hardkoro)
 
 ## 🙂 Profile
 
@@ -49,7 +49,7 @@ Thesis: _Warehouse Management System development. Order picking subsystem_ (Exce
 
 ## 🏅 Certifications
 
-- **Tech Academy: Observability, Incident Response, Data Modelling, RabbitMQ, Software Design** — [Picnic Technologies](https://blog.picnic.nl/), 2022 – 2025
+- **Tech Academy: Observability, Incident Response, Data Modelling, RabbitMQ, Software Design, Interview Training** — [Picnic Technologies](https://blog.picnic.nl/), 2022 – 2026
 - **Professionals Program — Create Buy In** — [Lepaya](https://www.lepaya.com/), 2025
 - **Lepaya Fundamentals** — [Lepaya](https://www.lepaya.com/), 2024
 - **Microservices & Event-Driven Architecture** — [Udemy](https://www.udemy.com/certificate/UC-018c628d-a216-4f1b-b408-fb1fe9f1e5b3/), 2023

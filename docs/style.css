@@ -47,6 +47,7 @@ h3 {
 }
 
 .masthead {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 1rem;
@@ -99,7 +100,8 @@ img.id-badge {
 .id-text .contact {
   margin: 0;
   color: var(--muted);
-  font-size: 0.82rem;
+  font-size: 0.78rem;
+  white-space: nowrap;
 }
 
 .id-text .contact a {
@@ -109,7 +111,9 @@ img.id-badge {
 }
 
 .print-btn {
-  flex: 0 0 auto;
+  position: absolute;
+  top: 1.6rem;
+  right: 2rem;
   background: var(--accent);
   color: #fff;
   border: none;
