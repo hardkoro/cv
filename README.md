@@ -2,11 +2,11 @@
 
 <img src="assets/profile.jpeg" alt="Evgenii Korobkov" width="120" align="right" />
 
-📍 Purmerend / Amsterdam, NL | 📧 eug.korobkov@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hardkoro/) / [GitHub](https://github.com/hardkoro)
+📍 Purmerend / Amsterdam, NL | 📧 [eug.korobkov@gmail.com](mailto:eug.korobkov@gmail.com) | 🌐 [linkedin.com/in/hardkoro](https://www.linkedin.com/in/hardkoro/) | 🧑‍💻 [github.com/hardkoro](https://github.com/hardkoro)
 
 ## 🙂 Profile
 
-Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at [Picnic Technologies](https://picnic.tech/), focusing on system reliability, observability, SLOs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.
+Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at [Picnic Technologies](https://picnic.tech/), focusing on system reliability, observability, SLOs/SLAs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.
 
 ## 💼 Experience
 
