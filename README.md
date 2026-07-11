@@ -43,7 +43,7 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 
 B.Sc. / M.Sc. in Robotics & CAD/CAE Systems
 
-📍 Moscow | Sep 2009 – Jun 2015
+Moscow | Sep 2009 – Jun 2015
 
 Thesis: _Warehouse Management System development. Order picking subsystem_ (Excellent)
 

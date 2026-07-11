@@ -122,7 +122,8 @@ def parse_readme(md_text):
             doc["contact"] = inline(line)
             continue
 
-        is_meta_line = bool(re.match(r"^[\U0001F300-\U0001FAFF].*\|", line))
+        # A "Location | date range" line, with or without a leading emoji.
+        is_meta_line = bool(re.match(r"^[^|]+\|.*\d{4}", strip_emoji(line)))
 
         if current_sub is not None and is_meta_line and not current_sub["bullets"]:
             current_sub["meta"] = inline(strip_emoji(line))
@@ -150,6 +151,7 @@ def render_items(items):
     for item in items:
         flat = item["heading"] is None
         out.append(f'<div class="entry{" flat" if flat else ""}">')
+        heading_text = re.sub(r"<[^>]+>", "", item["heading"] or "")
         if item["heading"]:
             out.append(f'<div class="entry-head"><h3>{item["heading"]}</h3>')
             if item["meta"]:
@@ -158,8 +160,12 @@ def render_items(items):
         for para in item["text"]:
             out.append(f'<p class="entry-text">{para}</p>')
         if item["bullets"]:
+            is_stack = heading_text.strip() == "Technical Stack"
             out.append("<ul>")
-            out.extend(f"<li>{strip_brackets(b)}</li>" for b in item["bullets"])
+            out.extend(
+                f"<li>{strip_brackets(b) if is_stack else b}</li>"
+                for b in item["bullets"]
+            )
             out.append("</ul>")
         out.append("</div>")
     return "\n".join(out)
@@ -222,11 +228,6 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 {main}
     </div>
   </div>
-  <footer>
-    Generated from
-    <a href="https://github.com/hardkoro/cv/blob/main/README.md">README.md</a>
-    — the source of truth for this page.
-  </footer>
 </div>
 </body>
 </html>
