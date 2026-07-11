@@ -1,0 +1,199 @@
+:root {
+  --ink: #1a1d23;
+  --muted: #5b6472;
+  --accent: #4f46e5;
+  --accent-soft: #eef2ff;
+  --border: #e5e7eb;
+  --bg: #fafafa;
+  --card-bg: #ffffff;
+  --max-width: 760px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.55;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  background: linear-gradient(135deg, var(--ink) 0%, #2f3542 100%);
+  color: #fff;
+  padding: 3rem 1.5rem 2.5rem;
+}
+
+.hero-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.hero h1 {
+  margin: 0 0 0.4rem;
+  font-size: 2.1rem;
+  letter-spacing: -0.02em;
+}
+
+.hero .contact {
+  margin: 0 0 1.2rem;
+  color: #d1d5db;
+  font-size: 0.95rem;
+}
+
+.hero .contact a {
+  color: #fff;
+  font-weight: 600;
+}
+
+.print-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 0.55rem 1.1rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.print-btn:hover {
+  background: #4338ca;
+}
+
+main {
+  max-width: var(--max-width);
+  margin: -1.5rem auto 3rem;
+  padding: 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.5rem 1.75rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.03);
+}
+
+.card h2 {
+  margin: 0 0 1rem;
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+}
+
+.intro {
+  margin: 0;
+  color: var(--ink);
+}
+
+.entry {
+  margin-bottom: 1.1rem;
+}
+
+.entry:last-child {
+  margin-bottom: 0;
+}
+
+.entry-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.4rem;
+  margin-bottom: 0.35rem;
+}
+
+.entry-head h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.entry-head .meta {
+  color: var(--muted);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.entry-text {
+  margin: 0.15rem 0 0.4rem;
+  color: var(--muted);
+}
+
+.entry ul {
+  margin: 0.3rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.entry li {
+  margin-bottom: 0.35rem;
+}
+
+.entry li strong {
+  color: var(--ink);
+}
+
+footer {
+  max-width: var(--max-width);
+  margin: 0 auto 2rem;
+  padding: 0 1.5rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+@media print {
+  body {
+    background: #fff;
+  }
+  .hero {
+    background: none;
+    color: var(--ink);
+    padding: 0 0 1rem;
+  }
+  .hero .contact,
+  .hero .contact a {
+    color: var(--muted);
+  }
+  .print-btn {
+    display: none;
+  }
+  main {
+    margin: 0 auto;
+    gap: 0.75rem;
+  }
+  .card {
+    box-shadow: none;
+    border: none;
+    padding: 0.75rem 0;
+    break-inside: avoid;
+  }
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero h1 {
+    font-size: 1.6rem;
+  }
+  .card {
+    padding: 1.1rem 1.25rem;
+  }
+}

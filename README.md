@@ -12,17 +12,13 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 
 📍 Amsterdam | July 2022 – Present
 
-- **Led rollout of new Slotting Service (WSLS)**, replacing the legacy system across all manual and hybrid warehouses: decoupled planned from physical slotting, migrated with minimal downtime, and enabled full decommissioning of the legacy service.
 - **Migrated the suggestions pipeline to Argo Workflows**, improving processing speed by 80% and significantly increasing the maintainability and durability of the flow.
+- **Led rollout of new Slotting Service (WSLS)**, replacing the legacy system across all manual and hybrid warehouses and enabling its full decommissioning.
 - Led design and development of a new **ZPR area and slotting automation** (fake compartments, ADS integration) for a fulfilment center rollout.
+- **Led a cross-team revamp of the shared HTTP client and Python utility library** used across Picnic tech, unblocking a critical cross-market migration to enforce unique warehouse IDs as part of Picnic's European expansion.
 - Pioneered **AI-driven development (AIDD)** in the domain: built custom Claude Code skills, agents, and workflows to boost developer productivity and streamline code reviews.
-- Defined and monitored **SLOs/KPIs** for Slotting Service, reducing operational incidents and clarifying decision-making.
-- Introduced **observability best practices** using Sentry and Datadog, improving incident response time and system reliability.
-- Scoped and coordinated **cross-team epics** (e.g., Layout Management, UI), balancing technical and business requirements.
-- Led a **cross-team revamp of the shared HTTP client and Python utility library** used across Picnic tech, unblocking a critical cross-market migration to enforce unique warehouse IDs as part of Picnic's European expansion.
-- Mentored teammates and coached new engineers to self-sufficiency through code reviews, knowledge-sharing sessions, and system design guidance.
-- Implemented **event-driven integrations** with RabbitMQ, increasing agility and real-time data processing.
-- Developed ETL pipelines and automated warehouse processes, including a **volume-based capacity calculation algorithm**, improving capacity planning, error reduction, and operational efficiency.
+- Defined **SLOs/KPIs** and introduced **observability practices** (Sentry, Datadog), reducing operational incidents and improving response time.
+- Mentored teammates, coached new engineers to self-sufficiency, and scoped cross-team epics (e.g., Layout Management, UI).
 
 ### [Rusta Service LLC](https://kudo-paint.ru/) — _Software Engineer_
 
