@@ -6,7 +6,7 @@
 
 ## 🙂 Profile
 
-Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at [Picnic Technologies](https://picnic.tech/), focusing on system reliability, observability, SLOs/KPIs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.
+Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at [Picnic Technologies](https://picnic.tech/), focusing on system reliability, observability, SLOs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.
 
 ## 💼 Experience
 
@@ -19,7 +19,7 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 - **Led design and development of slotting automation to support zone picking** for a semi-automated fulfilment center rollout, nearly doubling the solution space without causing issues or slowdowns.
 - **Led a cross-team revamp of the shared HTTP client and Python utility library** used across all of Picnic's tech stack, unblocking a critical migration to ensure unique, clearly identifiable sites across markets while supporting legacy flows, as part of Picnic's European expansion.
 - **Pioneered AI-driven development (AIDD) in the domain**: turned multi-service releases into a one-click operation (down from a ~10-minute manual process), built an early feedback loop with cross-stage persistence to scope and implement work with AI (cutting token costs), and set up the team's AIDD tooling and practices from scratch.
-- **Defined SLOs/KPIs and introduced observability practices** (Sentry, Datadog), reducing operational incidents and improving response time.
+- **Defined SLOs/SLAs and introduced observability practices** (Sentry, Datadog), reducing operational incidents and improving response time.
 - **Mentored teammates and coached new engineers to self-sufficiency**, led by example and drove cross-domain projects.
 
 ### [Rusta Service LLC](https://kudo-paint.ru/) — _Software Engineer_
@@ -67,7 +67,7 @@ Thesis: _Warehouse Management System development. Order picking subsystem_ (Exce
 
 ### Leadership & Soft Skills
 
-- Mentoring, project orchestration, cross-team collaboration, requirements gathering, decision-making based on SLOs/KPIs
+- Mentoring, project orchestration, cross-team collaboration, requirements gathering, decision-making based on SLOs/SLAs
 - Responsibility, attention to detail, initiative, emotional resilience
 - Languages: Russian (native), English (C1), Dutch (B1)
 

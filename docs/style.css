@@ -103,8 +103,9 @@ img.id-badge {
 }
 
 .id-text .contact a {
-  color: var(--muted);
+  color: var(--accent);
   font-weight: 600;
+  text-decoration: underline;
 }
 
 .print-btn {
@@ -126,7 +127,7 @@ img.id-badge {
 
 .layout {
   display: grid;
-  grid-template-columns: 245px 1fr;
+  grid-template-columns: 15.3125rem 1fr;
 }
 
 .sidebar {
@@ -303,7 +304,7 @@ img.id-badge {
      use rem consistently) by the same factor, so the screen proportions
      carry over instead of drifting when print shrinks things further. */
   html {
-    font-size: 12px;
+    font-size: 12.5px;
   }
 
   body {
