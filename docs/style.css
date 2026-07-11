@@ -166,6 +166,12 @@ img.id-badge {
   margin: 0 0 0.3rem;
 }
 
+.sidebar .meta-line {
+  color: var(--sidebar-muted);
+  font-size: 0.74rem;
+  white-space: nowrap;
+}
+
 .sidebar ul {
   margin: 0;
   padding-left: 1rem;
@@ -360,7 +366,8 @@ footer {
 
   .sidebar li,
   .sidebar .intro,
-  .sidebar .entry-text {
+  .sidebar .entry-text,
+  .sidebar .meta-line {
     font-size: 0.68rem;
     margin-bottom: 0.14rem;
   }

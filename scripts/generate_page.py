@@ -122,12 +122,9 @@ def parse_readme(md_text):
             doc["contact"] = inline(line)
             continue
 
-        looks_like_meta = (
-            current_sub is not None
-            and not current_sub["bullets"]
-            and re.match(r"^[\U0001F300-\U0001FAFF].*\|", line)
-        )
-        if looks_like_meta:
+        is_meta_line = bool(re.match(r"^[\U0001F300-\U0001FAFF].*\|", line))
+
+        if current_sub is not None and is_meta_line and not current_sub["bullets"]:
             current_sub["meta"] = inline(strip_emoji(line))
             continue
 
@@ -136,7 +133,9 @@ def parse_readme(md_text):
             continue
 
         if current_section is not None:
-            current_section["intro"].append(inline(line))
+            current_section["intro"].append(
+                {"text": inline(line), "meta": is_meta_line}
+            )
 
     flush_sub()
     return doc
@@ -169,7 +168,8 @@ def render_items(items):
 def render_section(section):
     body = []
     for para in section["intro"]:
-        body.append(f'<p class="intro">{para}</p>')
+        cls = "intro meta-line" if para["meta"] else "intro"
+        body.append(f'<p class="{cls}">{para["text"]}</p>')
     body.append(render_items(section["items"]))
     slug = re.sub(r"[^a-z0-9]+", "-", section["title"].lower()).strip("-")
     return f'''<section class="block" id="{slug}">

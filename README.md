@@ -12,7 +12,7 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 
 ### [Picnic Technologies](https://picnic.tech/) — _Software Engineer_
 
-📍 Amsterdam | July 2022 – Present
+📍 Amsterdam / Hybdrid | July 2022 – Present
 
 - **Migrated the multi-service workflow that optimizes warehouse utilization and generates daily improvement suggestions** to Argo Workflows, improving the throughput time up to 80% and significantly increasing the maintainability and durability of the flow.
 - **Led rollout of the new Slotting Service (WSLS)** — deciding where products are stored in the warehouse — replacing the legacy system across all manual and automated warehouses and enabling its full decommissioning.
@@ -32,7 +32,7 @@ Software Engineer with 10+ years of experience delivering backend systems, data 
 
 ### [Troll Auto LLC](http://troll-auto.ru/) — _Software Engineer_
 
-📍 Moscow | Mar 2016 – Feb 2021
+📍 Moscow / On-Site | Mar 2016 – Feb 2021
 
 - Developed and maintained Enterprise Management System (EMS) software: database design, business logic, forms, and reports.
 - Implemented batch and address-based storage, reducing errors and improving inventory control.
