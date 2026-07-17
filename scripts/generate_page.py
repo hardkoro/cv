@@ -188,7 +188,7 @@ def render_contact(contact):
     items = [item.strip() for item in contact.split(" | ") if item.strip()]
     if len(items) <= 1:
         return contact
-    return "".join(f'<span class="contact-item">{item}</span>' for item in items)
+    return " ".join(f'<span class="contact-item">{item}</span>' for item in items)
 
 
 def extract_role(doc):
