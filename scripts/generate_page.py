@@ -184,6 +184,13 @@ def render_section(section):
 </section>'''
 
 
+def render_contact(contact):
+    items = [item.strip() for item in contact.split(" | ") if item.strip()]
+    if len(items) <= 1:
+        return contact
+    return "".join(f'<span class="contact-item">{item}</span>' for item in items)
+
+
 def extract_role(doc):
     for section in doc["sections"]:
         if section["title"].strip().lower() == "experience":
@@ -262,7 +269,7 @@ def build():
         tagline=f"CV of {doc['name']}",
         role=extract_role(doc),
         badge=render_badge(doc),
-        contact=doc["contact"],
+        contact=render_contact(doc["contact"]),
         sidebar="\n".join(sidebar_html),
         main="\n".join(main_html),
     )

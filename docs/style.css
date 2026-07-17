@@ -79,6 +79,7 @@ img.id-badge {
 
 .id-text {
   flex: 1 1 auto;
+  min-width: 0;
 }
 
 .id-text h1 {
@@ -101,13 +102,30 @@ img.id-badge {
   margin: 0;
   color: var(--muted);
   font-size: 0.78rem;
-  white-space: nowrap;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.45rem;
+  align-items: baseline;
 }
 
 .id-text .contact a {
   color: var(--accent);
   font-weight: 600;
   text-decoration: underline;
+  overflow-wrap: anywhere;
+}
+
+.id-text .contact-item {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.25rem;
+  max-width: 100%;
+}
+
+.id-text .contact-item:not(:last-child)::after {
+  content: "|";
+  color: var(--muted);
+  margin-left: 0.15rem;
 }
 
 .print-btn {
@@ -337,5 +355,12 @@ img.id-badge {
   }
   .masthead {
     flex-wrap: wrap;
+  }
+  .id-text .contact {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .id-text .contact-item:not(:last-child)::after {
+    display: none;
   }
 }
