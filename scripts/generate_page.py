@@ -193,6 +193,13 @@ def render_contact(contact):
 
 def extract_role(doc):
     for section in doc["sections"]:
+        if section["title"].strip().lower() == "profile":
+            for para in section["intro"]:
+                match = re.match(r"(.+?)\s+with\s+\d+", para["text"])
+                if match:
+                    return re.sub(r"<[^>]+>", "", match.group(1))
+
+    for section in doc["sections"]:
         if section["title"].strip().lower() == "experience":
             for item in section["items"]:
                 if item["heading"]:

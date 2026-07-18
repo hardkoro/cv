@@ -6,16 +6,16 @@
 
 ## 🙂 Profile
 
-Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at [Picnic Technologies](https://picnic.tech/), focusing on system reliability, observability, SLOs/SLAs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.
+Senior Software Engineer with 10+ years of experience delivering backend systems, data pipelines, and warehouse automation software. Currently driving large-scale logistics systems at [Picnic Technologies](https://picnic.tech/), focusing on system reliability, observability, SLOs/SLAs, and team enablement. Experienced in mentoring, cross-functional project leadership, and technical strategy.
 
 ## 💼 Experience
 
-### [Picnic Technologies](https://picnic.tech/) — _Software Engineer_
+### [Picnic Technologies](https://picnic.tech/) — _Python Engineer_
 
 📍 Amsterdam / Hybdrid | July 2022 – Present
 
 - **Migrated the multi-service workflow that optimizes warehouse utilization and generates daily improvement suggestions** to Argo Workflows, improving the throughput time up to 80% and significantly increasing the maintainability and durability of the flow.
-- **Led rollout of the new Slotting Service (WSLS)** — deciding where products are stored in the warehouse — replacing the legacy system across all manual and automated warehouses and enabling its full decommissioning.
+- **Led design and rollout of the new Slotting Service** — deciding where products are stored in the warehouse — replacing the legacy system across all manual and automated warehouses and enabling its full decommissioning.
 - **Led design and development of slotting automation to support zone picking** for a semi-automated fulfilment center rollout, nearly doubling the solution space without causing issues or slowdowns.
 - **Led a cross-team revamp of the shared HTTP client and Python utility library** used across all of Picnic's tech stack, unblocking a critical migration to ensure unique, clearly identifiable sites across markets while supporting legacy flows, as part of Picnic's European expansion.
 - **Pioneered AI-driven development (AIDD) in the domain**: turned multi-service releases into a one-click operation (down from a ~10-minute manual process), built an early feedback loop with cross-stage persistence to scope and implement work with AI (cutting token costs), and set up the team's AIDD tooling and practices from scratch.
@@ -67,13 +67,15 @@ Thesis: _Warehouse Management System development. Order picking subsystem_ (Exce
 
 ### Leadership & Soft Skills
 
-- Mentoring, project orchestration, cross-team collaboration, requirements gathering, decision-making based on SLOs/SLAs
-- Responsibility, attention to detail, initiative, emotional resilience
-- Languages: Russian (native), English (C1), Dutch (B1)
+- **Leadership & Collaboration**: Mentoring, project orchestration, cross-team collaboration, requirements gathering, decision-making based on SLOs/SLAs
+- **Working Style**: Responsibility, attention to detail, initiative, emotional resilience
+- **Languages**: Russian (native), English (C1), Dutch (B1)
 
 ### Technical Stack
 
-- **Languages**: Python, TypeScript
-- **Frameworks**: FastAPI, Pytest, Behave (previously Django, DRF, Flask, React)
-- **Data & DevOps**: PostgreSQL, Snowflake, RabbitMQ, Docker, Kubernetes, Terraform, Argo Workflows, Datadog, Sentry, ClickHouse
-- **Tools**: Git, Jira, Confluence, Parabol, PlantUML, incident.io, GitHub Copilot, Claude Code (AIDD: custom skills/agents/workflows)
+- **Backend**: Python, TypeScript, FastAPI, Pytest, Behave (previously Django, DRF, Flask, React)
+- **Data & Messaging**: PostgreSQL, Snowflake, ClickHouse, RabbitMQ
+- **Cloud & Platform**: Docker, Kubernetes, Terraform, Argo Workflows
+- **Observability & Reliability**: Datadog, Sentry, SLOs/SLAs, incident.io
+- **Delivery & Collaboration**: Git, Jira, Confluence, Parabol, PlantUML
+- **AI-Assisted Development**: GitHub Copilot, Claude Code, Codex (custom skills/agents/workflows)
