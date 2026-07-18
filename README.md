@@ -76,6 +76,6 @@ Thesis: _Warehouse Management System development. Order picking subsystem_ (Exce
 - **Backend**: Python, TypeScript, FastAPI, Pytest, Behave (previously Django, DRF, Flask, React)
 - **Data & Messaging**: PostgreSQL, Snowflake, ClickHouse, RabbitMQ
 - **Cloud & Platform**: Docker, Kubernetes, Terraform, Argo Workflows
-- **Observability & Reliability**: Datadog, Sentry, SLOs/SLAs, incident.io
+- **Observability & Reliability**: Datadog, Sentry, incident.io
 - **Delivery & Collaboration**: Git, Jira, Confluence, Parabol, PlantUML
 - **AI-Assisted Development**: GitHub Copilot, Claude Code, Codex (custom skills/agents/workflows)
