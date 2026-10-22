@@ -14,12 +14,12 @@ Senior Software Engineer with 10+ years of experience delivering backend systems
 
 📍 Amsterdam / Hybdrid | July 2022 – Present
 
-- **Migrated the multi-service workflow that optimizes warehouse utilization and generates daily improvement suggestions** to Argo Workflows, improving the throughput time up to 80% and significantly increasing the maintainability and durability of the flow.
-- **Led design and rollout of the new Slotting Service** — deciding where products are stored in the warehouse — replacing the legacy system across all manual and automated warehouses and enabling its full decommissioning.
-- **Led design and development of slotting automation to support zone picking** for a semi-automated fulfilment center rollout, nearly doubling the solution space without causing issues or slowdowns.
+- **Led design and rollout of the new Slotting Service** — a service deciding where products are stored in the warehouse — replacing the legacy system with a more robust and extensible solution across manual DCs, hybrid, and automated warehouses, improving response time up to 40x, reducing critical incidents, and enabling smooth decommissioning of the old service without downtime.
+- **Migrated the multi-service workflow that optimizes warehouse utilization and generates daily improvement suggestions** to Argo Workflows, improving the throughput time up to 80%, which saved company €300,000 per year, and significantly increased the maintainability and durability of the flow.
+- **Led design and development of slotting automation to support zone picking and chaotic storage**, nearly doubling the solution space without causing issues or slowdowns.
+- **Pioneered AI-driven development (AIDD) in the domain**: turned multi-service releases into a one-click operation (down from a ~10-minute manual process), built an early feedback loop with cross-stage persistence to scope and implement work with AI (cutting token costs), and set up AIDD tooling and practices for the Python ecosystem from scratch.
 - **Led a cross-team revamp of the shared HTTP client and Python utility library** used across all of Picnic's tech stack, unblocking a critical migration to ensure unique, clearly identifiable sites across markets while supporting legacy flows, as part of Picnic's European expansion.
-- **Pioneered AI-driven development (AIDD) in the domain**: turned multi-service releases into a one-click operation (down from a ~10-minute manual process), built an early feedback loop with cross-stage persistence to scope and implement work with AI (cutting token costs), and set up the team's AIDD tooling and practices from scratch.
-- **Defined SLOs/SLAs and introduced observability practices** (Sentry, Datadog), reducing operational incidents and improving response time.
+- **Defined service SLOs and aligned on cross-service SLAs**, introducing observability practices (Sentry, Datadog) to reduce operational incidents and improve response time.
 - **Mentored teammates and coached new engineers to self-sufficiency**, led by example and drove cross-domain projects.
 
 ### [Rusta Service LLC](https://kudo-paint.ru/) — _Software Engineer_
